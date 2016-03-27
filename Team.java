@@ -44,6 +44,7 @@ public class Team {
 	private double teamPpPct;
 	private double teamShotsAgainstPerGame;
 	private double teamShotsForPerGame;
+	private int teamID;
 
 	public Team (String city, String name, String statsURL, String lineCombinationsURL, String subreddit, String timeZone) {
 		teamCity = city;
@@ -58,7 +59,7 @@ public class Team {
 	public void setStats (int wins, int losses, int overtimeLosses, String conference,
 					String arena, int homeWins, int homeLosses, int homeOTL, int awayWins, int awayLosses,
 					int awayOTL, int SOWins, int SOLosses, int lastTenWins,	int lastTenLosses,
-					int lastTenOTL, int goalsAgainst, int goalsScored, int leagueRank) {
+					int lastTenOTL, int goalsAgainst, int goalsScored, int leagueRank, int ID) {
 		teamWins = wins;
 		teamLosses = losses;
 		teamOvertimeLosses = overtimeLosses;
@@ -78,9 +79,11 @@ public class Team {
 		teamGoalsAgainst = goalsAgainst;
 		teamGoalsScored = goalsScored;
 		teamLeagueRank = leagueRank;
+		teamID = ID;
 	}
 
-	public void setMiscStats (double faceoffPct, int gamesPlayed, int goalsAgainst, double goalsAgainstPerGame, int goalsFor, double goalsForPerGame, double pkPct, double ppPct, double shotsAgainstPerGame, double shotsForPerGame) {
+	public void setMiscStats (double faceoffPct, int gamesPlayed, int goalsAgainst, double goalsAgainstPerGame, int goalsFor, 
+							double goalsForPerGame, double pkPct, double ppPct, double shotsAgainstPerGame, double shotsForPerGame) {
 		 teamFaceoffPct = faceoffPct;
 		 teamGamesPlayed = gamesPlayed;
 		 teamGoalsAgainst = goalsAgainst;
@@ -92,8 +95,8 @@ public class Team {
 		 teamShotsAgainstPerGame = shotsAgainstPerGame;
 		 teamShotsForPerGame = shotsForPerGame;
 	}
-	
-	
+
+
 	public int getPoints() {
 		return ((2 * teamWins) + (teamOvertimeLosses));
 	}
@@ -179,7 +182,7 @@ public class Team {
 		else
 			teamFriendlyTimeZone = "Pacific";
 	}
-		
+
 	public String getTimeZone() {
 		return teamTimeZone;
 	}
@@ -187,27 +190,27 @@ public class Team {
 	public void setTime (TimeGame time) {
 		gameTime = time;
 	}
-	
+
 	public String getTime() {
 		return gameTime.getGameTime();
-	}	
+	}
 
 	public String getDate() {
 		return gameTime.getGameDate();
 	}
-	
+
 	public String getWins() {
 		return String.valueOf(teamWins);
 	}
-	
+
 	public String getLosses() {
 		return String.valueOf(teamLosses);
 	}
-	
+
 	public String getOTL() {
 		return String.valueOf(teamOvertimeLosses);
 	}
-	
+
 	public String getRank() {
 		return String.valueOf(teamLeagueRank);
 	}
@@ -216,6 +219,10 @@ public class Team {
 		return teamLeagueRank;
 	}
 	
+	public String getID() {
+		return String.valueOf(teamID);
+	}
+
 	public String getTeamLeaders() {
 		Skater leader1 = null;
 		Skater leader2 = null;
@@ -307,20 +314,26 @@ public class Team {
 		String gString = "";	// ha ha ha
 		ArrayList<Goalie> gl = new ArrayList<Goalie>();
 
-		for (int i = 0; i < playerList.size(); i++)
-			if (playerList.get(i) instanceof Goalie)
+		for (int i = 0; i < playerList.size(); i++) {
+			if (playerList.get(i) instanceof Goalie) {
 				gl.add((Goalie)playerList.get(i));
+			}
+		}
 
-			for (int i = 0; i < gl.size(); i++)
-				gString = gString + "| [](" + teamSubreddit + ") | " + gl.get(i).toString() + " |\n";
+		for (int i = 0; i < gl.size(); i++) {
+			gString = gString + "| [](" + teamSubreddit + ") | " + gl.get(i).toString() + " |";
+			if (i != gl.size() - 1) {
+				gString = gString + "\n";
+			}
+		}
 
 		return gString;
 	}
-	
+
 	public String getStandings() {
-		return ("| " + String.valueOf(teamLeagueRank) + " | [](" + teamSubreddit + ") | " + teamCity + " " + 
+		return ("| " + String.valueOf(teamLeagueRank) + " | [](" + teamSubreddit + ") | " + teamCity + " " +
 				teamName + " | " + String.valueOf(teamWins) + " | " + String.valueOf(teamLosses) +
-				" | " + String.valueOf(teamOvertimeLosses) + " | " + String.valueOf(getPoints()) + 
+				" | " + String.valueOf(teamOvertimeLosses) + " | " + String.valueOf(getPoints()) +
 				" | " + String.valueOf(teamPpPct) + " | " + String.valueOf(teamPkPct) + " | " +
 				teamFaceoffPct + " |\n");
 	}
@@ -406,7 +419,7 @@ public class Team {
 		}
 		teamAliases = new TreeMap<String, Team>(teamNames);
 	}
-	
+
 	public static void CreateRankTree() {
 		HashMap<Integer, Team> teamRanks = new HashMap<Integer, Team>();
 
@@ -414,11 +427,19 @@ public class Team {
 			teamRanks.put(teamKeys.get(key).getIntRank(), teamKeys.get(key));
 		}
 		teamRankTree = new TreeMap<Integer, Team>(teamRanks);
-		for (Integer key : teamRankTree.keySet())
-			System.out.println("#" + key + " " + teamRankTree.get(key).getTeamName());
+/*		for (Integer key : teamRankTree.keySet())
+			System.out.println("#" + key + " " + teamRankTree.get(key).getTeamName()); */
 	}
 
+	public static String getSkaterHeader() {
+		return ("| # | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%\n:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:");
+	}
 
+	public static String getGoalieHeader() {
+		return ("| # | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM\n:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:");
+	}
 	
+
+
 }
 

@@ -13,7 +13,7 @@ public class TimeGame {
 	private String mountainTime;
 	private String pacificTime;
 	private String dayOfWeek;
-	
+
 	public TimeGame(String dateTime, Team home) {
 		String originalDateTime = dateTime;
 		String d;
@@ -30,23 +30,23 @@ public class TimeGame {
 		DateTimeFormatter newFormatTime = DateTimeFormatter.ofPattern("hh:mm a");
 		DateTimeFormatter newFormatDate = DateTimeFormatter.ofPattern("MM/dd/yyyy");
 		LocalDateTime zuluTime = LocalDateTime.parse(originalDateTime, format);
-		
+
 		ZoneId zuluZone = ZoneId.of("Zulu");
 		ZonedDateTime zuluTimeZoned = ZonedDateTime.of(zuluTime, zuluZone);
-		
+
 		ZoneId localZone = ZoneId.of(home.getTimeZone());
 		ZonedDateTime localTime = zuluTimeZoned.withZoneSameInstant(localZone);
 		gameTime = localTime.format(newFormatTime);
 		gameDate = localTime.format(newFormatDate);
-		
+
 		ZoneId easternZone = ZoneId.of("America/New_York");
 		ZonedDateTime easternTimeZone = zuluTimeZoned.withZoneSameInstant(easternZone);
 		easternTime = easternTimeZone.format(newFormatTime);
-		
+
 		ZoneId centralZone = ZoneId.of("America/Chicago");
 		ZonedDateTime centralTimeZone = zuluTimeZoned.withZoneSameInstant(centralZone);
 		centralTime = centralTimeZone.format(newFormatTime);
-		
+
 		ZoneId mountainZone = ZoneId.of("America/Edmonton");
 		ZonedDateTime mountainTimeZone = zuluTimeZoned.withZoneSameInstant(mountainZone);
 		mountainTime = mountainTimeZone.format(newFormatTime);
@@ -60,11 +60,11 @@ public class TimeGame {
 	public String getGameTime() {
 		return gameTime;
 	}
-	
+
 	public String getGameDate() {
 		return gameDate;
 	}
-	
+
 	public String getEastern() {
 		return easternTime;
 	}
@@ -80,7 +80,7 @@ public class TimeGame {
 	public String getPacific() {
 		return pacificTime;
 	}
-	
+
 	public String getDayOfWeek() {
 		return dayOfWeek;
 	}
@@ -95,21 +95,21 @@ public class TimeGame {
 		s = d + " " + t;
 		String gameTime;
 		String gameDate;
-		
+
 		DateTimeFormatter format = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 		DateTimeFormatter newFormatTime = DateTimeFormatter.ofPattern("hh:mm a");
 		DateTimeFormatter newFormatDate = DateTimeFormatter.ofPattern("MM/dd/yyyy");
 		LocalDateTime zuluTime = LocalDateTime.parse(s, format);
-		
+
 		ZoneId zuluZone = ZoneId.of("Zulu");
 		ZonedDateTime zuluTimeZoned = ZonedDateTime.of(zuluTime, zuluZone);
 		System.out.println(zuluTimeZoned.format(format));
-		
+
 		ZoneId localZone = ZoneId.of(home.getTimeZone());
 		ZonedDateTime localTime = zuluTimeZoned.withZoneSameInstant(localZone);
 		gameTime = localTime.format(newFormatTime);
 		gameDate = localTime.format(newFormatDate);
-		
+
 		return gameDate;
 	}*/
 }

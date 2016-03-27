@@ -8,16 +8,6 @@ import java.net.*;
 public class StatGrabber {
 
 	public static void getStatsFile(Team t) {
-/*		Calendar cal = Calendar.getInstance();
-		int intMonth = (cal.get(Calendar.MONTH)+1);
-		int intDay = (cal.get(Calendar.DATE));
-		final long milliDay = (1000*60*60*24);
-		final long milliTest = 1000;
-		String strYear = Integer.toString(cal.get(Calendar.YEAR));
-		String strMonth;
-		String strDay;
-		String strDate;
-//		Scanner scan = new Scanner(System.in);*/
 		String inputLine;
 		boolean update = false;
 		File f = null;
@@ -87,6 +77,18 @@ public class StatGrabber {
 			statSkaters = doc.select(".tieUp table.data:eq(1) tr:not(.hdr) td");	// selects the skaters table
 			statGoalies = doc.select(".tieUp table.data:eq(3) tr:not(.hdr) td");	// selects the goalie table
 
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			for (int i = 0; i < statSkaters.size(); i++) {
 
 				if (column == 1 || column == 2) {
@@ -139,6 +141,8 @@ public class StatGrabber {
 						}
 						catch (NumberFormatException e) {
 							integer = new Integer(-1);
+							System.out.println("Here! Right here! It's trying to read column " + i + "as an int!");
+							
 						}
 
 						goalies[column] = integer;
@@ -165,9 +169,9 @@ public class StatGrabber {
 		for (int i = 0; i < goaliesList.size(); i++) {
 			goalies = goaliesList.get(i);
 			g = new Goalie(((Integer)goalies[0]).intValue(), goalies[1].toString(), ((Integer)goalies[2]).intValue(), ((Integer)goalies[3]).intValue(),
-			((Integer)goalies[4]).intValue(), ((Double)goalies[5]).doubleValue(),((Integer)goalies[6]).intValue(), ((Integer)goalies[7]).intValue(),
+			/*((Integer)goalies[4]).intValue(),*/ ((Double)goalies[5]).doubleValue(),((Integer)goalies[6]).intValue(), ((Integer)goalies[7]).intValue(),
 			((Integer)goalies[8]).intValue(), ((Integer)goalies[9]).intValue(), ((Integer)goalies[10]).intValue(), ((Integer)goalies[11]).intValue(),
-			((Double)goalies[12]).doubleValue(), ((Integer)goalies[13]).intValue(), ((Integer)goalies[14]).intValue(), ((Integer)goalies[15]).intValue());
+			((Double)goalies[12]).doubleValue()/*, ((Integer)goalies[13]).intValue(), ((Integer)goalies[14]).intValue(), ((Integer)goalies[15]).intValue()*/);
 			playerList.add(g);
 		}
 			t.addPlayerList(playerList);
@@ -177,7 +181,7 @@ public class StatGrabber {
 		}
 	}
 
-	
+
 	public static void printSkaterHeader() {
 		System.out.println("# | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%");
 	}
@@ -185,15 +189,15 @@ public class StatGrabber {
 	public static void printGoalieHeader() {
 		System.out.println("# | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM");
 	}
-	
+
 	public static String getSkaterHeader() {
-		return ("# | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%");
+		return ("# | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%\n:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:");
 	}
 
 	public static String getGoalieHeader() {
-		return ("# | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM");
+		return ("# | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM\n:--:|:--:|:--:|:--:|:--:|:--:|:--::--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:");
 	}
 
-	
-	
+
+
 }

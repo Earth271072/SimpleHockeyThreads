@@ -10,10 +10,11 @@ public class Game {
 	private TimeGame tg;
 	private TimeGame timeGame;
 	private Team t;
+	private String gameBroadcast;
 //	public static HashMap<String, Game> gameList = new HashMap<String, Game>();
 	public static ArrayList<Game> gameList = new ArrayList<Game>();
 
-	public Game (String home, String away, String inputDate, String ID) {
+	public Game (String home, String away, String inputDate, String ID, String broadcast) {
 		homeTeamName = home;
 		awayTeamName = away;
 		originalDate = inputDate;
@@ -22,6 +23,7 @@ public class Game {
 		t = Team.teamAliases.get(homeTeamName);
 		timeGame = new TimeGame(originalDate, t);
 		tg = timeGame;
+		gameBroadcast = broadcast;
 /*		System.out.println(tg.getGameTime());
 		System.out.println(tg.getGameDate());
 		System.out.println(tg.getEastern());
@@ -89,6 +91,11 @@ public class Game {
 	public String getDayOfWeek() {
 		return tg.getDayOfWeek();
 	}
+	
+	public String getBroadcast() {
+		return gameBroadcast;
+	}
+
 	public static void listGames() {
 /*		for (String key: gameList.keySet()) {
 			System.out.println(gameList.get(key).getAway() + " @ " +

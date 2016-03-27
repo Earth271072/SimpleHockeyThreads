@@ -9,7 +9,7 @@ public class FileOutputter {
 	public static void updateStats() {
 		System.out.println("Getting team stats...");
 		for (String key: Team.teamKeys.keySet()) {
-//			System.out.println(key);
+			System.out.println(key);
 			updateStats (Team.teamKeys.get(key));
 		}
 	}
@@ -35,7 +35,7 @@ public class FileOutputter {
 			}
 
 			File f = new File(folder.getAbsolutePath(), t.getFullTeamName().replaceAll("\\s","") + ".html");
-			
+
 			if(!f.exists()) {
 				System.out.println("THE FILE DOESN'T EXIST, APPARENTLY");
 				localUpdate = true;
@@ -59,6 +59,7 @@ public class FileOutputter {
 			}
 
 			if (update || localUpdate) {
+				System.out.println("Getting stats file for " + t.getFullTeamName());
 				StatGrabber.getStatsFile(t);
 			}
 		}

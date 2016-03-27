@@ -16,11 +16,11 @@ public class Goalie extends Player {
 	private int penaltyMinutes;
 
 	// goalies
-	public Goalie (int number, String name, int GPI, int GS, int min, double GAA, int W, int L, int OT, int SO, int SA, int GA, double savepct, int G, int A, int PIM) {
+	public Goalie (int number, String name, int GPI, int GS, /*int min, */double GAA, int W, int L, int OT, int SO, int SA, int GA, double savepct/*, int G, int A, int PIM*/) {
 		super(number, name);
 		gamesPlayedIn = GPI;
 		gamesStarted = GS;
-		minutes = min;
+//		minutes = min;
 		goalsAgainstAverage = GAA;
 		wins = W;
 		losses = L;
@@ -29,9 +29,9 @@ public class Goalie extends Player {
 		shotsAgainst = SA;
 		goalsAgainst = GA;
 		savePercentage = savepct;
-		goals = G;
-		assists = A;
-		penaltyMinutes = PIM;
+//		goals = G;
+//		assists = A;
+//		penaltyMinutes = PIM;
 	}
 
 	public int getGamesPlayedIn() {
