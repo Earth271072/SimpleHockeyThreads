@@ -11,7 +11,6 @@ public class Game {
 	private TimeGame timeGame;
 	private Team t;
 	private String gameBroadcast;
-//	public static HashMap<String, Game> gameList = new HashMap<String, Game>();
 	public static ArrayList<Game> gameList = new ArrayList<Game>();
 
 	public Game (String home, String away, String inputDate, String ID, String broadcast) {
@@ -24,12 +23,6 @@ public class Game {
 		timeGame = new TimeGame(originalDate, t);
 		tg = timeGame;
 		gameBroadcast = broadcast;
-/*		System.out.println(tg.getGameTime());
-		System.out.println(tg.getGameDate());
-		System.out.println(tg.getEastern());
-		System.out.println(tg.getCentral());
-		System.out.println(tg.getMountain());
-		System.out.println(tg.getPacific());*/
 	}
 
 	public String getAway() {	// you scary!
@@ -91,17 +84,12 @@ public class Game {
 	public String getDayOfWeek() {
 		return tg.getDayOfWeek();
 	}
-	
+
 	public String getBroadcast() {
 		return gameBroadcast;
 	}
 
 	public static void listGames() {
-/*		for (String key: gameList.keySet()) {
-			System.out.println(gameList.get(key).getAway() + " @ " +
-			gameList.get(key).getHome() + " " + gameList.get(key).getLocalGameTime() +
-			" " + gameList.get(key).getGameDate());
-		}*/
 		for (int i = 0; i < gameList.size(); i++) {
 			System.out.println( (i+1) + ". " + gameList.get(i).getAway() + " @ " +
 					gameList.get(i).getHome());
@@ -113,8 +101,6 @@ public class Game {
 		listGames();
 		System.out.print("Please select a game: ");
 		i = numberGame();
-
-		System.out.println(i);
 		return gameList.get(i);
 	}
 
@@ -122,20 +108,22 @@ public class Game {
 			Scanner s = new Scanner(System.in);
 			int i = -1;
 			boolean err = true;
-//			System.out.println("Input now! ");
 
 			while (err) {
 				s = new Scanner(System.in);
 				if (s.hasNextInt()) {
 					i = s.nextInt();
-					err = false;
+					if (i < 1 || i > gameList.size()) {
+						System.out.print("Not a selection. Try again: ");
+						continue;
+					}
+					else {
+						err = false;
+					}
 				}
 				else {
 					System.out.print("\nInvalid input! Please try again! ");
 					continue;
-				}
-				if (i < 1 || i > gameList.size()) {
-					System.out.print("Not a selection. Try again: ");
 				}
 			}
 
@@ -143,11 +131,3 @@ public class Game {
 
 	}
 }
-
-//	public static void makeGameList(HashMap<String, Game> g) {
-//		gameKeys = new TreeMap<String, Game>(g);
-//	}
-/*	private void setDate() {
-		TimeGame gameDate = new TimeGame(originalDate, Team.teamAliases.get(homeTeamName));
-		Team.teamAliases.get(homeTeamName).setGameDate(gameDate);
-	}*/

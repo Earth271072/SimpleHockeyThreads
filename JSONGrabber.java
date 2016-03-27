@@ -33,7 +33,7 @@ public class JSONGrabber {
 		return json;
 	}
 
-	
+
 	public static void getStandings() {
 		System.out.println("Getting league standings...");
 		parseJSONStandings(getJSON("https://statsapi.web.nhl.com/api/v1/standings?expand=standings.record,standings.team,standings.division,standings.conference&season=20152016"));
@@ -42,8 +42,6 @@ public class JSONGrabber {
 	private static void/*TreeMap<String, Team>*/ parseJSONStandings(String s) {
 
 		System.out.println("Getting team records...");
-		String teamName;
-		String locationName;
 		String venue;
 		String abbreviation;
 		String division;
@@ -74,8 +72,6 @@ public class JSONGrabber {
 			for (int j = 0; j < teamsArray.length(); j++) {
 				venue = teamsArray.getJSONObject(j).getJSONObject("team").getJSONObject("venue").getString("name");
 				abbreviation = teamsArray.getJSONObject(j).getJSONObject("team").getString("abbreviation");
-				teamName = teamsArray.getJSONObject(j).getJSONObject("team").getString("name");
-				locationName = teamsArray.getJSONObject(j).getJSONObject("team").getString("locationName");
 				division = teamsArray.getJSONObject(j).getJSONObject("team").getJSONObject("division").getString("name");
 				wins = teamsArray.getJSONObject(j).getJSONObject("leagueRecord").getInt("wins");
 				losses = teamsArray.getJSONObject(j).getJSONObject("leagueRecord").getInt("losses");
@@ -95,7 +91,7 @@ public class JSONGrabber {
 				goalsScored = teamsArray.getJSONObject(j).getInt("goalsScored");
 				leagueRank = teamsArray.getJSONObject(j).getInt("leagueRank");
 				ID = teamsArray.getJSONObject(j).getJSONObject("team").getInt("id");
-				
+
 				t = Team.teamKeys.get(abbreviation);
 				t.setStats (wins, losses, OTL, division, venue, homeWins, homeLosses,
 							homeOTL, awayWins, awayLosses, awayOTL, SOWins, SOLosses, lastTenWins,
@@ -112,7 +108,7 @@ public class JSONGrabber {
 	public static void getTeamStats() {
 		getTeamStats(getJSON("http://www.nhl.com/stats/rest/grouped/teams/season/teamsummary?cayenneExp=seasonId=20152016%20and%20gameTypeId=2"));
 	}
-	
+
 	private static void getTeamStats(String s) {
 		double faceoffPct = 0;
 		int gamesPlayed;
@@ -126,7 +122,6 @@ public class JSONGrabber {
 		double shotsForPerGame;
 		String teamAbbrev;
 		JSONObject jObj = new JSONObject(s);
-		JSONObject t;
 		JSONArray a = jObj.getJSONArray("data");
 		Team te;
 
@@ -144,27 +139,17 @@ public class JSONGrabber {
 			teamAbbrev = a.getJSONObject(i).getString("teamAbbrev");
 			te = Team.teamKeys.get(teamAbbrev);
 			te.setMiscStats(faceoffPct, gamesPlayed, goalsAgainst, goalsAgainstPerGame, goalsFor, goalsForPerGame, pkPct, ppPct, shotsAgainstPerGame, shotsForPerGame);
-
 		}
-
 	}
 
 	private static void parseJSONSchedule(String s) {
-
-//		g1 = new ArrayList<Game>();
-//		HashMap<String, Game> gameList = new HashMap<String, Game>();
 		Game g;
-//		String d;
 		String away;
 		String home;
 		String dateTime;
 		String gameID;
 		JSONObject jObj = new JSONObject(s);
-//		d = jObj.getJSONArray("dates").getJSONObject(0).getString("date");
-		
-//		String json = getJSON("https://statsapi.web.nhl.com/api/v1/schedule?startDate=" + date + "&expand=schedule.broadcasts.all");
 		String broadcast = "";
-		String date;
 
 		JSONArray gameArray = jObj.getJSONArray("dates").getJSONObject(0).getJSONArray("games");
 		for (int i = 0; i < gameArray.length(); i++) {
@@ -173,7 +158,6 @@ public class JSONGrabber {
 			dateTime = gameArray.getJSONObject(i).getString("gameDate");
 			Integer id = new Integer(gameArray.getJSONObject(i).getInt("gamePk"));
 			gameID = id.toString();
-			date = dateTime.replace("/", "-");
 			broadcast = "";
 			for (int j = 0; j < (gameArray.getJSONObject(i).getJSONArray("broadcasts").length()); j++) {
 				broadcast += gameArray.getJSONObject(j).getJSONArray("broadcasts").getJSONObject(j).getString("name");
@@ -181,39 +165,30 @@ public class JSONGrabber {
 					broadcast += ", ";
 				}
 			}
-			
-			
+
+
 			g = new Game(home, away, dateTime, gameID, broadcast);
 
 			gameKeys.put(home, g);
 			Game.addGameToList(home, g);
 		}
 	}
-	
+
 	public static void getStats () {
 		final String URL ="https://statsapi.web.nhl.com/api/v1/teams?site=en_nhl&teamId=&expand=team.roster,roster.person,person.stats&stats=statsSingleSeason";
 		String json = "";
 		String id;
 		for (String key: Team.teamKeys.keySet()) {
-			id = Team.teamKeys.get(key).getID();		
+			id = Team.teamKeys.get(key).getID();
 			json = getJSON(URL.replace("teamId=", ("teamId=" + id)));
 			getPlayerStats(key, json);
-		}		
+		}
 	}
-	
+
 	public static void getPlayerStats(String key, String json) {
-		Integer integer;
-		String string;
-		Double doub;
-		ArrayList<Object[]> skatersList = new ArrayList<Object[]>();
-		ArrayList<Object[]> goaliesList = new ArrayList<Object[]>();
 		ArrayList<Player> playerList = new ArrayList<Player>();
-		Object skaters[] = new Object[14];
-		Object goalies[] = new Object[16];
 		Skater s;
 		Goalie g;
-		Scanner scan = new Scanner(System.in);
-		String answer;
 		int number;
 		String position;
 		String name;
@@ -232,7 +207,6 @@ public class JSONGrabber {
 
 		int gamesPlayedIn;
 		int gamesStarted;
-//		int minutes;
 		double goalsAgainstAverage;
 		int wins;
 		int losses;
@@ -241,26 +215,23 @@ public class JSONGrabber {
 		int shotsAgainst;
 		int goalsAgainst;
 		double savePercentage;
-		int penaltyMinutes;
-		
+
 		JSONObject jObj = new JSONObject(json);
 		JSONArray a = jObj.getJSONArray("teams").getJSONObject(0).getJSONObject("roster").getJSONArray("roster");
 		JSONObject b;
-		
+
 		for (int i = 0; i < a.length(); i++) {
 			b = a.getJSONObject(i).getJSONObject("person").getJSONArray("stats").getJSONObject(0);
 			if (b.getJSONArray("splits").length() > 0) {
-				
+
 				b.getJSONArray("splits").length();
 				b = b.getJSONArray("splits").getJSONObject(0).getJSONObject("stat");
 				name = a.getJSONObject(i).getJSONObject("person").getString("fullName");
 				number = a.getJSONObject(i).getJSONObject("person").getInt("primaryNumber");
 				position = a.getJSONObject(i).getJSONObject("person").getJSONObject("primaryPosition").getString("code");
 				if (position.equals("G")) {
-	//				minutes = b.getString("timeOnIce").replace(":",;
 					gamesPlayedIn = b.getInt("games");
 					gamesStarted = b.getInt("gamesStarted");
-	//				minutes = b.
 					goalsAgainstAverage = b.getDouble("goalAgainstAverage");
 					wins = b.getInt("wins");
 					losses = b.getInt("losses");
@@ -269,9 +240,7 @@ public class JSONGrabber {
 					shotsAgainst = b.getInt("shotsAgainst");
 					goalsAgainst = b.getInt("goalsAgainst");
 					savePercentage = b.getDouble("savePercentage");
-	//				goals = b.getInt(
-	//				assists = b.getJSONObject(i)
-	//				penaltyMinutes = b.getJSONObject(i)			
+
 					g = new Goalie (number, name, gamesPlayedIn, gamesStarted, goalsAgainstAverage, wins, losses, overtimeLosses, shutouts, shotsAgainst, goalsAgainst, savePercentage);
 					playerList.add(g);
 				}
@@ -279,22 +248,21 @@ public class JSONGrabber {
 
 				else {
 					b = a.getJSONObject(i).getJSONObject("person").getJSONArray("stats").getJSONObject(0);
-		
 					b = b.getJSONArray("splits").getJSONObject(0).getJSONObject("stat");
 					name = a.getJSONObject(i).getJSONObject("person").getString("fullName");
 					number = a.getJSONObject(i).getJSONObject("person").getInt("primaryNumber");
 					position = a.getJSONObject(i).getJSONObject("person").getJSONObject("primaryPosition").getString("code");
-					gamesPlayed  = b.getInt("games"); 
-					goals  = b.getInt("goals"); 
-					assists  = b.getInt("assists"); 
+					gamesPlayed  = b.getInt("games");
+					goals  = b.getInt("goals");
+					assists  = b.getInt("assists");
 					points = b.getInt("points");
-					plusMinus = b.getInt("plusMinus"); 
-					pim = b.getInt("pim"); 
-					pp = b.getInt("powerPlayGoals"); 
-					sh = b.getInt("shortHandedGoals"); 
-					gw = b.getInt("gameWinningGoals"); 
-					shots = b.getInt("shots"); 
-					shotPct = b.getDouble("shotPct"); 
+					plusMinus = b.getInt("plusMinus");
+					pim = b.getInt("pim");
+					pp = b.getInt("powerPlayGoals");
+					sh = b.getInt("shortHandedGoals");
+					gw = b.getInt("gameWinningGoals");
+					shots = b.getInt("shots");
+					shotPct = b.getDouble("shotPct");
 					s = new Skater(number, position, name, gamesPlayed, goals, assists, points, plusMinus, pim, pp, sh, gw, shots, shotPct);
 					playerList.add(s);
 				}

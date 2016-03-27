@@ -5,48 +5,6 @@ import java.io.*;
 public class Line {
 
 		private Document doc;
-/*		private String LW1;
-		private String LW2;
-		private String LW3;
-		private String LW4;
-		private String C1;
-		private String C2;
-		private String C3;
-		private String C4;
-		private String RW1;
-		private String RW2;
-		private String RW3;
-		private String RW4;
-		private String LD1;
-		private String LD2;
-		private String LD3;
-		private String RD1;
-		private String RD2;
-		private String RD3;
-		private String PPLW1;
-		private String PPLW2;
-		private String PPC1;
-		private String PPC2;
-		private String PPRW1;
-		private String PPRW2;
-		private String PPLD1;
-		private String PPLD2;
-		private String PPRD1;
-		private String PPRD2;
-		private String G1;
-		private String G2;
-		private String IR1;
-		private String IR2;
-		private String IR3;
-		private String IR4;
-		private String IR5;
-		private String IR6;
-		private String IR7;
-		private String IR8;
-		private String IR9;
-		private String IR10;
-		private String IR11;
-		private String IR12;*/
 		private String[] F1 = new String[3];
 		private String[] F2 = new String[3];
 		private String[] F3 = new String[3];
@@ -64,7 +22,6 @@ public class Line {
 		public Line (String statsUrl) {
 			try {
 				doc = Jsoup.connect(statsUrl).get();
-//				System.out.println(doc.title());	// prints title of the page to confirm it is in the right place
 				F1[0] = doc.select("td#LW1 a").text();
 				F2[0] = doc.select("td#LW2 a").text();
 				F3[0] = doc.select("td#LW3 a").text();
@@ -107,72 +64,6 @@ public class Line {
 				IR[9] = doc.select("td#IR10 a").text();
 				IR[10] = doc.select("td#IR11 a").text();
 				IR[11] = doc.select("td#IR12 a").text();
-
-/*				System.out.println("Printing F1");
-				for (int i = 0; i < F1.length; i++)
-					System.out.println(F1[i]);
-
-				System.out.println("\nPrinting F2");
-
-				for (int i = 0; i < F2.length; i++)
-					System.out.println(F2[i]);
-
-				System.out.println("\nPrinting F3");
-
-				for (int i = 0; i < F3.length; i++)
-					System.out.println(F3[i]);
-
-				System.out.println("\nPrinting F4");
-
-				for (int i = 0; i < F4.length; i++)
-					System.out.println(F4[i]);
-
-				System.out.println("\nPrinting D1");
-
-				for (int i = 0; i < D1.length; i++)
-					System.out.println(D1[i]);
-
-				System.out.println("\nPrinting D2");
-
-				for (int i = 0; i < D2.length; i++)
-					System.out.println(D2[i]);
-
-				System.out.println("\nPrinting D3");
-
-				for (int i = 0; i < D3.length; i++)
-					System.out.println(D3[i]);
-
-				System.out.println("\nPrinting PPF1");
-
-				for (int i = 0; i < PPF1.length; i++)
-					System.out.println(PPF1[i]);
-
-				System.out.println("\nPrinting PPF2");
-
-				for (int i = 0; i < PPF2.length; i++)
-					System.out.println(PPF2[i]);
-
-				System.out.println("\nPrinting PPD1");
-
-				for (int i = 0; i < PPD1.length; i++)
-					System.out.println(PPD1[i]);
-
-				System.out.println("\nPrinting PPD2");
-
-				for (int i = 0; i < PPD2.length; i++)
-					System.out.println(PPD2[i]);
-
-				System.out.println("\nPrinting G");
-
-				for (int i = 0; i < G.length; i++)
-					System.out.println(G[i]);
-
-				System.out.println("\nPrinting IR");
-
-				for (int i = 0; i < IR.length; i++)
-					if (!IR[i].equals(""))
-						System.out.println(IR[i]);*/
-
 			}
 			catch (IOException e) {
 				e.printStackTrace();

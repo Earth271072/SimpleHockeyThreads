@@ -82,7 +82,7 @@ public class Team {
 		teamID = ID;
 	}
 
-	public void setMiscStats (double faceoffPct, int gamesPlayed, int goalsAgainst, double goalsAgainstPerGame, int goalsFor, 
+	public void setMiscStats (double faceoffPct, int gamesPlayed, int goalsAgainst, double goalsAgainstPerGame, int goalsFor,
 							double goalsForPerGame, double pkPct, double ppPct, double shotsAgainstPerGame, double shotsForPerGame) {
 		 teamFaceoffPct = faceoffPct;
 		 teamGamesPlayed = gamesPlayed;
@@ -95,7 +95,6 @@ public class Team {
 		 teamShotsAgainstPerGame = shotsAgainstPerGame;
 		 teamShotsForPerGame = shotsForPerGame;
 	}
-
 
 	public int getPoints() {
 		return ((2 * teamWins) + (teamOvertimeLosses));
@@ -129,37 +128,6 @@ public class Team {
 		return teamArena;
 	}
 
-	public void printSkaters() {
-		boolean printed = false;
-		for (int i = 0; i < playerList.size(); i++) {
-			if (playerList.get(i) instanceof Skater) {
-				if (!printed) {
-					StatGrabber.printSkaterHeader();
-					printed = true;
-				}
-				System.out.println(playerList.get(i).toString());
-			}
-		}
-	}
-
-	public void printGoalies() {
-		boolean printed = false;
-		for (int i = 0; i < playerList.size(); i++) {
-			if (playerList.get(i) instanceof Goalie) {
-				if (!printed) {
-					StatGrabber.printGoalieHeader();
-					printed = true;
-				}
-			System.out.println(playerList.get(i).toString());
-			}
-		}
-	}
-
-	public void printPlayers() {
-		printSkaters();
-		System.out.println();
-		printGoalies();
-	}
 	public String getStatsURL() {
 		return teamStatsURL;
 	}
@@ -211,14 +179,106 @@ public class Team {
 		return String.valueOf(teamOvertimeLosses);
 	}
 
+	public int getTeamHomeWins() {
+		return teamHomeWins;
+	}
+
+	public int getTeamHomeLosses() {
+		return teamHomeLosses;
+	}
+
+	public int getTeamHomeOTL() {
+		return teamHomeOTL;
+	}
+
+	public int getTeamAwayLosses() {
+		return teamAwayLosses;
+	}
+
+	public int getTeamSOWins() {
+		return teamSOWins;
+	}
+
+	public int getTeamSOLosses() {
+		return teamSOLosses;
+	}
+
+	public int getTeamLastTenWins() {
+		return teamLastTenWins;
+	}
+
+	public int getTeamLastTenOTL() {
+		return teamLastTenOTL;
+	}
+
+	public int getTeamGoalsScored() {
+		return teamGoalsScored;
+	}
+
+	public int getTeamGamesPlayed() {
+		return teamGamesPlayed;
+	}
+
+	public double getTeamGoalsAgainstPerGame() {
+		return teamGoalsAgainstPerGame;
+	}
+
+	public int getTeamGoalsFor() {
+		return teamGoalsFor;
+	}
+
+	public double getTeamGoalsForPerGame() {
+		return teamGoalsForPerGame;
+	}
+
+	public int getTeamAwayWins() {
+		return teamAwayWins;
+	}
+
+	public int getTeamAwayOTL() {
+		return teamAwayOTL;
+	}
+
+	public int getTeamLastTenLosses() {
+		return teamLastTenLosses;
+	}
+
+	public int getTeamGoalsAgainst() {
+		return teamGoalsAgainst;
+	}
+
+	public String getTeamFriendlyTimeZone() {
+		return teamFriendlyTimeZone;
+	}
+
+	public double getTeamShotsAgainstPerGame() {
+		return teamShotsAgainstPerGame;
+	}
+
+	public double getTeamShotsForPerGame() {
+		return teamShotsForPerGame;
+	}
+
 	public String getRank() {
 		return String.valueOf(teamLeagueRank);
+	}
+
+	public String getTeamConference() {
+		return teamConference;
+	}
+
+	public Line getL() {
+		return l;
+	}
+
+	public TimeGame getGameDate() {
+		return gameDate;
 	}
 
 	public int getIntRank() {
 		return teamLeagueRank;
 	}
-	
+
 	public String getID() {
 		return String.valueOf(teamID);
 	}
@@ -242,9 +302,6 @@ public class Team {
 		leader2Points = sk.get(1).getPoints();
 		leader3 = sk.get(2);
 		leader3Points = sk.get(2).getPoints();
-/*		System.out.println(leader1.toString());
-		System.out.println(leader2.toString());
-		System.out.println(leader3.toString());	*/
 
 		for (int i = 3; i < sk.size(); i++) {
 			tempPlayer = sk.get(i);
@@ -298,8 +355,6 @@ public class Team {
 				}
 
 				else if (tempPoints == leader3Points) {
-//					System.out.println(tempPlayer.getGoals());
-//					System.out.println(leader3.getGoals());
 					if (tempPlayer.getGoals() > leader3.getGoals()) {
 						leader3 = tempPlayer;
 						leader3Points = tempPoints;
@@ -407,9 +462,6 @@ public class Team {
 			teamNames.put("WPG", WPG);
 		teamKeys = new TreeMap<String, Team>(teamNames);
 		CreateTeamAliasMap();
-/*		for (String key : teamKeys) {
-			String value = teamNames.get(key);
-		}*/
 	}
 
 	public static void CreateTeamAliasMap() {
@@ -427,8 +479,6 @@ public class Team {
 			teamRanks.put(teamKeys.get(key).getIntRank(), teamKeys.get(key));
 		}
 		teamRankTree = new TreeMap<Integer, Team>(teamRanks);
-/*		for (Integer key : teamRankTree.keySet())
-			System.out.println("#" + key + " " + teamRankTree.get(key).getTeamName()); */
 	}
 
 	public static String getSkaterHeader() {
@@ -438,8 +488,4 @@ public class Team {
 	public static String getGoalieHeader() {
 		return ("| # | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM\n:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:");
 	}
-	
-
-
 }
-
