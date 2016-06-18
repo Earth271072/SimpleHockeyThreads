@@ -160,7 +160,7 @@ public class JSONGrabber {
 			gameID = id.toString();
 			broadcast = "";
 			for (int j = 0; j < (gameArray.getJSONObject(i).getJSONArray("broadcasts").length()); j++) {
-				broadcast += gameArray.getJSONObject(j).getJSONArray("broadcasts").getJSONObject(j).getString("name");
+				broadcast += gameArray.getJSONObject(i).getJSONArray("broadcasts").getJSONObject(j).getString("name");
 				if (j < (gameArray.getJSONObject(i).getJSONArray("broadcasts").length() - 1)) {
 					broadcast += ", ";
 				}
@@ -226,9 +226,24 @@ public class JSONGrabber {
 
 				b.getJSONArray("splits").length();
 				b = b.getJSONArray("splits").getJSONObject(0).getJSONObject("stat");
-				name = a.getJSONObject(i).getJSONObject("person").getString("fullName");
-				number = a.getJSONObject(i).getJSONObject("person").getInt("primaryNumber");
+
+				// name
+				try {
+					name = a.getJSONObject(i).getJSONObject("person").getString("fullName");
+				}
+				catch (JSONException e) {
+					name = "NAME NOT FOUND";
+				}
+				// number
+				try {
+					number = a.getJSONObject(i).getJSONObject("person").getInt("primaryNumber");
+				}
+				catch (JSONException e) {
+					number = 0;
+				}
+
 				position = a.getJSONObject(i).getJSONObject("person").getJSONObject("primaryPosition").getString("code");
+
 				if (position.equals("G")) {
 					gamesPlayedIn = b.getInt("games");
 					gamesStarted = b.getInt("gamesStarted");
@@ -250,7 +265,7 @@ public class JSONGrabber {
 					b = a.getJSONObject(i).getJSONObject("person").getJSONArray("stats").getJSONObject(0);
 					b = b.getJSONArray("splits").getJSONObject(0).getJSONObject("stat");
 					name = a.getJSONObject(i).getJSONObject("person").getString("fullName");
-					number = a.getJSONObject(i).getJSONObject("person").getInt("primaryNumber");
+//					number = 0/*a.getJSONObject(i).getJSONObject("person").getInt("primaryNumber")*/;
 					position = a.getJSONObject(i).getJSONObject("person").getJSONObject("primaryPosition").getString("code");
 					gamesPlayed  = b.getInt("games");
 					goals  = b.getInt("goals");

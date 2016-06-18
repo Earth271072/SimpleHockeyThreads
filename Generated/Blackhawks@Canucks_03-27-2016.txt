@@ -1,0 +1,95 @@
+------------------[ THREAD TITLES ]-------------------------
+Game Thread: Blackhawks at Canucks - 03/27/2016 - 05:00 PM PT
+Game Thread: Blackhawks (44-25-7) at Canucks (27-35-13) - 03/27/2016 - 05:00 PM PT
+Game Thread: #5 Blackhawks (44-25-7) at #28 Canucks (27-35-13) - 03/27/2016 - 05:00 PM PT
+
+------------------[ GAME THREAD ]-------------------------
+| GAME DAY: Monday 03/27/2016 |
+|:--:|
+| Rogers Arena - Vancouver |
+| #5 Blackhawks (44-25-7) @ #28 Canucks (27-35-13) |
+
+|||
+|:--:|:--:|
+| **Time** | 05:00 PM PT - 06:00 PM MT - 07:00 PM CT - 08:00 PM ET |
+| **TV** | MSG+, TVAS |
+| **Streams** | /r/NHLStreams |  
+| **Listen** | http://canucks.nhl.com/club/stats.htm - http://blackhawks.nhl.com/club/stats.htm |
+| **Talk** | **[#Reddit-Hockey on FreeNode](http://webchat.freenode.net/?channels=reddit-hockey)** |
+| **Comment Stream** | [Reddit-Stream]() |
+| **NHL Links** | [Preview](http://www.nhl.com/gamecenter/en/preview?id=2015021131) - [Box Score](http://www.nhl.com/gamecenter/en/boxscore?id=2015021131) - [Recap](http://www.nhl.com/gamecenter/en/recap?id=2015021131) |
+
+# Team Stats
+
+| Rank | | Team | W | L | OT | P | PP% | PK% | FO% |
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| 4 | [](/r/losangeleskings) | Los Angeles Kings | 45 | 25 | 5 | 95 | 0.2054 | 0.8143 | 0.5037 |
+| **5** | **[](/r/hawks)** | **Chicago Blackhawks** | **44** | **25** | **7** | **95** | **0.2173** | **0.7916** | **0.4954** |
+| 6 | [](/r/rangers) | New York Rangers | 43 | 24 | 9 | 95 | 0.1932 | 0.7792 | 0.4928 |
+| 27 | [](/r/bluejackets) | Columbus Blue Jackets | 30 | 37 | 8 | 68 | 0.171 | 0.81 | 0.4906 |
+| **28** | **[](/r/canucks)** | **Vancouver Canucks** | **27** | **35** | **13** | **67** | **0.1659** | **0.8237** | **0.4526** |
+| 29 | [](/r/edmontonoilers) | Edmonton Oilers | 30 | 41 | 7 | 67 | 0.1777 | 0.8016 | 0.4882 |
+
+
+# Game Preview
+
+## Team Leaders
+| # | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/hawks) | 88 | R | Patrick Kane | 76 | 39 | 55 | 94 | 16 | 30 | 15 | 0 | 8 | 264 | 14.8
+| [](/r/hawks) | 72 | L | Artemi Panarin | 74 | 25 | 39 | 64 | 5 | 32 | 6 | 0 | 6 | 169 | 14.8
+| [](/r/hawks) | 19 | C | Jonathan Toews | 75 | 25 | 26 | 51 | 16 | 60 | 6 | 3 | 8 | 165 | 15.2
+| [](/r/canucks) | 23 | D | Alexander Edler | 52 | 6 | 14 | 20 | -8 | 46 | 3 | 0 | 0 | 111 | 5.4
+| [](/r/canucks) | 21 | C | Brandon Sutter | 20 | 5 | 4 | 9 | 3 | 2 | 1 | 1 | 2 | 45 | 11.1
+| [](/r/canucks) | 22 | L | Daniel Sedin | 75 | 27 | 32 | 59 | 9 | 34 | 8 | 0 | 6 | 241 | 11.2
+
+
+## Goalie Situation
+| # | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/hawks) | 49 | Michael Leighton | 1 | 0 | 0 | 1.54 | 0 | 0 | 0 | 0 | 17 | 1 | 0.941 | 0 | 0 | 0 |
+| [](/r/hawks) | 50 | Corey Crawford | 57 | 57 | 0 | 2.32 | 35 | 18 | 4 | 7 | 1693 | 126 | 0.926 | 0 | 0 | 0 |
+| [](/r/hawks) | 33 | Scott Darling | 24 | 19 | 0 | 2.48 | 9 | 7 | 3 | 1 | 623 | 52 | 0.917 | 0 | 0 | 0 |
+| [](/r/canucks) | 30 | Ryan Miller | 48 | 48 | 0 | 2.64 | 15 | 23 | 9 | 1 | 1515 | 126 | 0.917 | 0 | 0 | 0 |
+| [](/r/canucks) | 25 | Jacob Markstrom | 29 | 26 | 0 | 2.62 | 11 | 12 | 4 | 0 | 846 | 70 | 0.917 | 0 | 0 | 0 |
+
+## Projected Lineups
+
+| | Left | Center | Right | | Left | Center | Right |
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+|[](/r/hawks)| Andrew Ladd | Jonathan Toews | Marian Hossa |[](/r/canucks)| Daniel Sedin | Henrik Sedin | Jannik Hansen |
+|[](/r/hawks)| Artemi Panarin | Teuvo Teravainen | Patrick Kane |[](/r/canucks)| Sven Baertschi | Bo Horvat | Jake Virtanen |
+|[](/r/hawks)| Richard Panik | Dennis Rasmussen | Dale Weise |[](/r/canucks)| Alexandre Burrows | Linden Vey | Emerson Etem |
+|[](/r/hawks)| Andrew Desjardins | Marcus Kruger | Andrew Shaw |[](/r/canucks)| Brendan Gaunce | Jared McCann | Chris Higgins |
+
+| | Left D | Right D | | Left D | Right D |
+:--: | :--: | :--: | :--: | :--: | :--: 
+|[](/r/hawks)| Duncan Keith | Niklas Hjalmarsson |[](/r/canucks)| Ben Hutton | Nikita Tryamkin |
+|[](/r/hawks)| Viktor Svedberg | Brent Seabrook |[](/r/canucks)| Dan Hamhuis | Yannick Weber |
+|[](/r/hawks)| Christian Ehrhoff | Trevor van Riemsdyk |[](/r/canucks)| Matt Bartkowski | Alex Biega |
+
+|| Goaltenders || Goaltenders |
+:--: | :--: | :--: | :--:
+|[](/r/hawks)| Scott Darling |[](/r/canucks)| Ryan Miller |
+|[](/r/hawks)| Michael Leighton |[](/r/canucks)| Jacob Markstrom |
+
+
+# Live Game Stats
+***
+***
+
+# Thread Notes
+
+* Discuss whatever you wish, you can trash talk, but keep it civil!
+* Turning comment sort to 'new' will help you see the newest posts.
+* Try [Chrome Refresh](https://chrome.google.com/webstore/detail/chrome-refresh/aifhnlnghddfdaccgbbpbhjfkmncekmn) or [Firefox ReloadEvery](https://addons.mozilla.org/en-US/firefox/addon/reloadevery/) to auto-refresh this tab or the Reddit Stream link posted above.
+* Feel free to message me with any errors or suggestions for future threads.
+
+**Lets have a good discussion and a good game. Good luck to both teams!**
+
+###GET NOTIFIED WHEN THE GDT FOR YOUR FAVORITE TEAMS GETS POSTED!
+[Click here to get GDT notifications for Chicago](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Chicago)  
+or  
+[Click here to get GDT notifications for Vancouver](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Vancouver)  
+or  
+[Click here for more information](/message/compose/?to=HockeyGT_Bot&subject=help&message=Just%20click%20send)  

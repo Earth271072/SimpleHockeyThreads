@@ -1,0 +1,94 @@
+------------------[ THREAD TITLES ]-------------------------
+Game Thread: Predators at Stars - 03/29/2016 - 07:30 PM CT
+Game Thread: Predators (39-24-13) at Stars (45-22-9) - 03/29/2016 - 07:30 PM CT
+Game Thread: #11 Predators (39-24-13) at #2 Stars (45-22-9) - 03/29/2016 - 07:30 PM CT
+
+------------------[ GAME THREAD ]-------------------------
+| GAME DAY: Tuesday 03/29/2016 |
+|:--:|
+| American Airlines Center - Dallas |
+| #11 Predators (39-24-13) @ #2 Stars (45-22-9) |
+
+|||
+|:--:|:--:|
+| **Time** | 05:30 PM PT - 06:30 PM MT - 07:30 PM CT - 08:30 PM ET |
+| **TV** |  |
+| **Streams** | /r/NHLStreams |  
+| **Listen** | http://stars.nhl.com/club/stats.htm - http://predators.nhl.com/club/stats.htm |
+| **Talk** | **[#Reddit-Hockey on FreeNode](http://webchat.freenode.net/?channels=reddit-hockey)** |
+| **Comment Stream** | [Reddit-Stream]() |
+| **NHL Links** | [Preview](http://www.nhl.com/gamecenter/en/preview?id=2015021147) - [Box Score](http://www.nhl.com/gamecenter/en/boxscore?id=2015021147) - [Recap](http://www.nhl.com/gamecenter/en/recap?id=2015021147) |
+
+# Team Stats
+
+| Rank | | Team | W | L | OT | P | PP% | PK% | FO% |
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| 1 | [](/r/caps) | Washington Capitals | 54 | 16 | 5 | 113 | 0.2274 | 0.8481 | 0.4993 |
+| **2** | **[](/r/dallasstars)** | **Dallas Stars** | **45** | **22** | **9** | **99** | **0.2217** | **0.8181** | **0.5033** |
+| 3 | [](/r/stlouisblues) | St. Louis Blues | 45 | 22 | 9 | 99 | 0.2139 | 0.85 | 0.5133 |
+| 10 | [](/r/penguins) | Pittsburgh Penguins | 42 | 25 | 8 | 92 | 0.1776 | 0.8362 | 0.5048 |
+| **11** | **[](/r/predators)** | **Nashville Predators** | **39** | **24** | **13** | **91** | **0.1966** | **0.8088** | **0.4906** |
+| 12 | [](/r/sanjosesharks) | San Jose Sharks | 42 | 28 | 6 | 90 | 0.2231 | 0.7972 | 0.505 |
+
+
+# Game Preview
+
+## Team Leaders
+| # | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/predators) | 9 | L | Filip Forsberg | 76 | 31 | 27 | 58 | 2 | 41 | 7 | 1 | 3 | 231 | 13.4
+| [](/r/predators) | 59 | D | Roman Josi | 76 | 13 | 44 | 57 | 0 | 39 | 6 | 1 | 2 | 183 | 7.1
+| [](/r/predators) | 92 | C | Ryan Johansen | 74 | 13 | 39 | 52 | 5 | 55 | 4 | 0 | 2 | 174 | 7.5
+| [](/r/dallasstars) | 14 | L | Jamie Benn | 76 | 37 | 46 | 83 | 6 | 60 | 16 | 2 | 5 | 233 | 15.9
+| [](/r/dallasstars) | 91 | C | Tyler Seguin | 72 | 33 | 40 | 73 | 2 | 16 | 7 | 0 | 6 | 278 | 11.9
+| [](/r/dallasstars) | 10 | L | Patrick Sharp | 70 | 18 | 32 | 50 | -7 | 23 | 6 | 0 | 6 | 206 | 8.7
+
+
+## Goalie Situation
+| # | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/predators) | 35 | Pekka Rinne | 62 | 62 | 0 | 2.43 | 32 | 19 | 10 | 4 | 1646 | 149 | 0.909 | 0 | 0 | 0 |
+| [](/r/predators) | 30 | Carter Hutton | 14 | 13 | 0 | 2.3 | 7 | 4 | 3 | 2 | 388 | 32 | 0.918 | 0 | 0 | 0 |
+| [](/r/dallasstars) | 32 | Kari Lehtonen | 40 | 36 | 0 | 2.83 | 22 | 10 | 2 | 2 | 1046 | 99 | 0.905 | 0 | 0 | 0 |
+| [](/r/dallasstars) | 31 | Antti Niemi | 45 | 40 | 0 | 2.74 | 23 | 12 | 7 | 3 | 1160 | 113 | 0.903 | 0 | 0 | 0 |
+
+## Projected Lineups
+
+| | Left | Center | Right | | Left | Center | Right |
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+|[](/r/predators)| Calle Jarnkrok | Ryan Johansen | James Neal |[](/r/dallasstars)| Jamie Benn | Cody Eakin | Patrick Sharp |
+|[](/r/predators)| Filip Forsberg | Mike Ribeiro | Craig Smith |[](/r/dallasstars)| Mattias Janmark | Jason Spezza | Valeri Nichushkin |
+|[](/r/predators)| Colin Wilson | Mike Fisher | Viktor Arvidsson |[](/r/dallasstars)| Antoine Roussel | Radek Faksa | Ales Hemsky |
+|[](/r/predators)| Eric Nystrom | Colton Sissons | Miikka Salomaki |[](/r/dallasstars)| Colton Sceviour | Vernon Fiddler | Patrick Eaves |
+
+| | Left D | Right D | | Left D | Right D |
+:--: | :--: | :--: | :--: | :--: | :--: 
+|[](/r/predators)| Roman Josi | Shea Weber |[](/r/dallasstars)| Alex Goligoski | John Klingberg |
+|[](/r/predators)| Barret Jackman | Ryan Ellis |[](/r/dallasstars)| Patrik Nemeth | Jordie Benn |
+|[](/r/predators)| Mattias Ekholm | Petter Granberg |[](/r/dallasstars)| Johnny Oduya | Stephen Johns |
+
+|| Goaltenders || Goaltenders |
+:--: | :--: | :--: | :--:
+|[](/r/predators)| Pekka Rinne |[](/r/dallasstars)| Kari Lehtonen |
+|[](/r/predators)| Carter Hutton |[](/r/dallasstars)| Antti Niemi |
+
+
+# Live Game Stats
+***
+***
+
+# Thread Notes
+
+* Discuss whatever you wish, you can trash talk, but keep it civil!
+* Turning comment sort to 'new' will help you see the newest posts.
+* Try [Chrome Refresh](https://chrome.google.com/webstore/detail/chrome-refresh/aifhnlnghddfdaccgbbpbhjfkmncekmn) or [Firefox ReloadEvery](https://addons.mozilla.org/en-US/firefox/addon/reloadevery/) to auto-refresh this tab or the Reddit Stream link posted above.
+* Feel free to message me with any errors or suggestions for future threads.
+
+**Lets have a good discussion and a good game. Good luck to both teams!**
+
+###GET NOTIFIED WHEN THE GDT FOR YOUR FAVORITE TEAMS GETS POSTED!
+[Click here to get GDT notifications for Nashville](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Nashville)  
+or  
+[Click here to get GDT notifications for Dallas](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Dallas)  
+or  
+[Click here for more information](/message/compose/?to=HockeyGT_Bot&subject=help&message=Just%20click%20send)  

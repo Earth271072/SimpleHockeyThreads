@@ -1,0 +1,88 @@
+------------------[ THREAD TITLES ]-------------------------
+Game Thread: Sharks at Predators - 04/02/2016 - 07:00 PM CT
+Game Thread: Sharks (43-29-6) at Predators (39-26-13) - 04/02/2016 - 07:00 PM CT
+Game Thread: #12 Sharks (43-29-6) at #14 Predators (39-26-13) - 04/02/2016 - 07:00 PM CT
+
+------------------[ GAME THREAD ]-------------------------
+| GAME DAY: Saturday 04/02/2016 |
+|:--:|
+| Bridgestone Arena - Nashville |
+| #12 Sharks (43-29-6) @ #14 Predators (39-26-13) |
+
+|||
+|:--:|:--:|
+| **Time** | 05:00 PM PT - 06:00 PM MT - 07:00 PM CT - 08:00 PM ET |
+| **TV** |  |
+| **Streams** | /r/NHLStreams |  
+| **Listen** | http://predators.nhl.com/club/stats.htm - http://sharks.nhl.com/club/stats.htm |
+| **Talk** | **[#Reddit-Hockey on FreeNode](http://webchat.freenode.net/?channels=reddit-hockey)** |
+| **Comment Stream** | [Reddit-Stream]() |
+| **NHL Links** | [Preview](http://www.nhl.com/gamecenter/en/preview?id=2015021175) - [Box Score](http://www.nhl.com/gamecenter/en/boxscore?id=2015021175) - [Recap](http://www.nhl.com/gamecenter/en/recap?id=2015021175) |
+
+# Team Stats
+
+| Rank | | Team | W | L | OT | P | PP% | PK% | FO% |
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+
+
+# Game Preview
+
+## Team Leaders
+| # | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/sanjosesharks) | 88 | D | Brent Burns | 78 | 27 | 46 | 73 | -6 | 53 | 7 | 1 | 4 | 337 | 8.0
+| [](/r/sanjosesharks) | 9 | C | Dainius Zubrus | 47 | 3 | 4 | 7 | 5 | 20 | 0 | 0 | 0 | 31 | 9.7
+| [](/r/sanjosesharks) | 19 | C | Joe Thornton | 78 | 18 | 58 | 76 | 25 | 54 | 7 | 0 | 6 | 116 | 15.5
+| [](/r/predators) | 9 | L | Filip Forsberg | 78 | 31 | 28 | 59 | 1 | 41 | 7 | 1 | 3 | 234 | 13.2
+| [](/r/predators) | 59 | D | Roman Josi | 78 | 13 | 44 | 57 | -3 | 41 | 6 | 1 | 2 | 190 | 6.8
+| [](/r/predators) | 92 | C | Ryan Johansen | 76 | 14 | 41 | 55 | 6 | 55 | 4 | 0 | 2 | 178 | 7.9
+
+
+## Goalie Situation
+| # | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/sanjosesharks) | 34 | James Reimer | 38 | 35 | 0 | 2.38 | 15 | 14 | 7 | 2 | 1069 | 86 | 0.92 | 0 | 0 | 0 |
+| [](/r/sanjosesharks) | 31 | Martin Jones | 63 | 63 | 0 | 2.26 | 36 | 22 | 4 | 5 | 1688 | 138 | 0.918 | 0 | 0 | 0 |
+| [](/r/predators) | 35 | Pekka Rinne | 64 | 64 | 0 | 2.48 | 32 | 21 | 10 | 4 | 1698 | 156 | 0.908 | 0 | 0 | 0 |
+| [](/r/predators) | 30 | Carter Hutton | 15 | 13 | 0 | 2.32 | 7 | 4 | 3 | 2 | 400 | 33 | 0.918 | 0 | 0 | 0 |
+
+## Projected Lineups
+
+| | Left | Center | Right | | Left | Center | Right |
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+|[](/r/sanjosesharks)| Tomas Hertl | Joe Thornton | Joe Pavelski |[](/r/predators)| Calle Jarnkrok | Ryan Johansen | James Neal |
+|[](/r/sanjosesharks)| Joonas Donskoi | Logan Couture | Joel Ward |[](/r/predators)| Filip Forsberg | Mike Ribeiro | Craig Smith |
+|[](/r/sanjosesharks)| Melker Karlsson | Patrick Marleau | Tommy Wingels |[](/r/predators)| Colin Wilson | Mike Fisher | Viktor Arvidsson |
+|[](/r/sanjosesharks)| Nick Spaling | Chris Tierney | Dainius Zubrus |[](/r/predators)| Miikka Salomaki | Paul Gaustad | Colton Sissons |
+
+| | Left D | Right D | | Left D | Right D |
+:--: | :--: | :--: | :--: | :--: | :--: 
+|[](/r/sanjosesharks)| Paul Martin | Brent Burns |[](/r/predators)| Roman Josi | Shea Weber |
+|[](/r/sanjosesharks)| Dylan DeMelo | Justin Braun |[](/r/predators)| Mattias Ekholm | Petter Granberg |
+|[](/r/sanjosesharks)| Brenden Dillon | Roman Polak |[](/r/predators)| Barret Jackman | Stefan Elliott |
+
+|| Goaltenders || Goaltenders |
+:--: | :--: | :--: | :--:
+|[](/r/sanjosesharks)| Martin Jones |[](/r/predators)| Pekka Rinne |
+|[](/r/sanjosesharks)| James Reimer |[](/r/predators)| Carter Hutton |
+
+
+# Live Game Stats
+***
+***
+
+# Thread Notes
+
+* Discuss whatever you wish, you can trash talk, but keep it civil!
+* Turning comment sort to 'new' will help you see the newest posts.
+* Try [Chrome Refresh](https://chrome.google.com/webstore/detail/chrome-refresh/aifhnlnghddfdaccgbbpbhjfkmncekmn) or [Firefox ReloadEvery](https://addons.mozilla.org/en-US/firefox/addon/reloadevery/) to auto-refresh this tab or the Reddit Stream link posted above.
+* Feel free to message me with any errors or suggestions for future threads.
+
+**Lets have a good discussion and a good game. Good luck to both teams!**
+
+###GET NOTIFIED WHEN THE GDT FOR YOUR FAVORITE TEAMS GETS POSTED!
+[Click here to get GDT notifications for San Jose](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=San Jose)  
+or  
+[Click here to get GDT notifications for Nashville](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Nashville)  
+or  
+[Click here for more information](/message/compose/?to=HockeyGT_Bot&subject=help&message=Just%20click%20send)  

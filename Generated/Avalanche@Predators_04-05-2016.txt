@@ -1,0 +1,94 @@
+------------------[ THREAD TITLES ]-------------------------
+Game Thread: Avalanche at Predators - 04/05/2016 - 07:00 PM CT
+Game Thread: Avalanche (39-36-4) at Predators (39-26-14) - 04/05/2016 - 07:00 PM CT
+Game Thread: #19 Avalanche (39-36-4) at #13 Predators (39-26-14) - 04/05/2016 - 07:00 PM CT
+
+------------------[ GAME THREAD ]-------------------------
+| GAME DAY: Tuesday 04/05/2016 |
+|:--:|
+| Bridgestone Arena - Nashville |
+| #19 Avalanche (39-36-4) @ #13 Predators (39-26-14) |
+
+|||
+|:--:|:--:|
+| **Time** | 05:00 PM PT - 06:00 PM MT - 07:00 PM CT - 08:00 PM ET |
+| **TV** |  |
+| **Streams** | /r/NHLStreams |  
+| **Listen** | http://predators.nhl.com/club/stats.htm - http://avalanche.nhl.com/club/stats.htm |
+| **Talk** | **[#Reddit-Hockey on FreeNode](http://webchat.freenode.net/?channels=reddit-hockey)** |
+| **Comment Stream** | [Reddit-Stream]() |
+| **NHL Links** | [Preview](http://www.nhl.com/gamecenter/en/preview?id=2015021194) - [Box Score](http://www.nhl.com/gamecenter/en/boxscore?id=2015021194) - [Recap](http://www.nhl.com/gamecenter/en/recap?id=2015021194) |
+
+# Team Stats
+
+| Rank | | Team | W | L | OT | P | PP% | PK% | FO% |
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| 12 | [](/r/sanjosesharks) | San Jose Sharks | 44 | 29 | 6 | 94 | 0.2213 | 0.8044 | 0.5092 |
+| **13** | **[](/r/predators)** | **Nashville Predators** | **39** | **26** | **14** | **92** | **0.1935** | **0.8093** | **0.4879** |
+| 14 | [](/r/flyers) | Philadelphia Flyers | 39 | 26 | 13 | 91 | 0.1886 | 0.8007 | 0.5071 |
+| 18 | [](/r/canes) | Carolina Hurricanes | 34 | 29 | 16 | 84 | 0.1681 | 0.8391 | 0.5375 |
+| **19** | **[](/r/coloradoavalanche)** | **Colorado Avalanche** | **39** | **36** | **4** | **82** | **0.1865** | **0.8137** | **0.4989** |
+| 20 | [](/r/devils) | New Jersey Devils | 37 | 34 | 8 | 82 | 0.2057 | 0.8274 | 0.4638 |
+
+
+# Game Preview
+
+## Team Leaders
+| # | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/coloradoavalanche) | 9 | C | Matt Duchene | 73 | 30 | 27 | 57 | -6 | 24 | 8 | 0 | 6 | 191 | 15.7
+| [](/r/coloradoavalanche) | 29 | C | Nathan MacKinnon | 72 | 21 | 31 | 52 | -4 | 20 | 7 | 0 | 6 | 245 | 8.6
+| [](/r/coloradoavalanche) | 92 | L | Gabriel Landeskog | 72 | 20 | 31 | 51 | -3 | 69 | 4 | 1 | 2 | 166 | 12.0
+| [](/r/predators) | 9 | L | Filip Forsberg | 79 | 31 | 28 | 59 | 1 | 41 | 7 | 1 | 3 | 237 | 13.1
+| [](/r/predators) | 59 | D | Roman Josi | 79 | 13 | 45 | 58 | -4 | 43 | 6 | 1 | 2 | 192 | 6.8
+| [](/r/predators) | 92 | C | Ryan Johansen | 77 | 14 | 42 | 56 | 6 | 55 | 4 | 0 | 2 | 179 | 7.8
+
+
+## Goalie Situation
+| # | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/coloradoavalanche) | 1 | Semyon Varlamov | 55 | 55 | 0 | 2.74 | 27 | 23 | 3 | 2 | 1655 | 139 | 0.916 | 0 | 0 | 0 |
+| [](/r/coloradoavalanche) | 31 | Calvin Pickard | 19 | 12 | 0 | 2.52 | 7 | 5 | 1 | 1 | 509 | 39 | 0.923 | 0 | 0 | 0 |
+| [](/r/predators) | 35 | Pekka Rinne | 64 | 64 | 0 | 2.48 | 32 | 21 | 10 | 4 | 1698 | 156 | 0.908 | 0 | 0 | 0 |
+| [](/r/predators) | 30 | Carter Hutton | 16 | 14 | 0 | 2.28 | 7 | 4 | 4 | 2 | 440 | 35 | 0.92 | 0 | 0 | 0 |
+
+## Projected Lineups
+
+| | Left | Center | Right | | Left | Center | Right |
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+|[](/r/coloradoavalanche)| Mikkel Boedker | Matt Duchene | Mikhail Grigorenko |[](/r/predators)| Calle Jarnkrok | Ryan Johansen | James Neal |
+|[](/r/coloradoavalanche)| Shawn Matthias | Carl Soderberg | Gabriel Landeskog |[](/r/predators)| Filip Forsberg | Mike Ribeiro | Craig Smith |
+|[](/r/coloradoavalanche)| Blake Comeau | John Mitchell | Jarome Iginla |[](/r/predators)| Colin Wilson | Mike Fisher | Viktor Arvidsson |
+|[](/r/coloradoavalanche)| Andreas Martinsen | Mikko Rantanen | Cody McLeod |[](/r/predators)| Cody Bass | Paul Gaustad | Austin Watson |
+
+| | Left D | Right D | | Left D | Right D |
+:--: | :--: | :--: | :--: | :--: | :--: 
+|[](/r/coloradoavalanche)| Francois Beauchemin | Nikita Zadorov |[](/r/predators)| Roman Josi | Shea Weber |
+|[](/r/coloradoavalanche)| Erik Johnson | Chris Bigras |[](/r/predators)| Mattias Ekholm | Ryan Ellis |
+|[](/r/coloradoavalanche)| Nick Holden | Tyson Barrie |[](/r/predators)| Barret Jackman | Petter Granberg |
+
+|| Goaltenders || Goaltenders |
+:--: | :--: | :--: | :--:
+|[](/r/coloradoavalanche)| Semyon Varlamov |[](/r/predators)| Pekka Rinne |
+|[](/r/coloradoavalanche)| Calvin Pickard |[](/r/predators)| Carter Hutton |
+
+
+# Live Game Stats
+***
+***
+
+# Thread Notes
+
+* Discuss whatever you wish, you can trash talk, but keep it civil!
+* Turning comment sort to 'new' will help you see the newest posts.
+* Try [Chrome Refresh](https://chrome.google.com/webstore/detail/chrome-refresh/aifhnlnghddfdaccgbbpbhjfkmncekmn) or [Firefox ReloadEvery](https://addons.mozilla.org/en-US/firefox/addon/reloadevery/) to auto-refresh this tab or the Reddit Stream link posted above.
+* Feel free to message me with any errors or suggestions for future threads.
+
+**Lets have a good discussion and a good game. Good luck to both teams!**
+
+###GET NOTIFIED WHEN THE GDT FOR YOUR FAVORITE TEAMS GETS POSTED!
+[Click here to get GDT notifications for Colorado](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Colorado)  
+or  
+[Click here to get GDT notifications for Nashville](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Nashville)  
+or  
+[Click here for more information](/message/compose/?to=HockeyGT_Bot&subject=help&message=Just%20click%20send)  

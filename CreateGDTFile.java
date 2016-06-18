@@ -30,26 +30,26 @@ public class CreateGDTFile {
 		String[] goaliesAway;
 		String sraway;
 		String goalieStatsAway;
-		String radioAway = away.getStatsURL();
+		String radioAway = away.getStatsURL().replace("stats.htm", "RadioPlayer.htm?id=" + g.getGameID());
+		radioAway = "[" + away.getTeamName() + " radio feed](" + radioAway + ")";
 		String[][] forwardsHome;
 		String[][] defenseHome;
 		String[] goaliesHome;
 		String srhome;
 		String goalieStatsHome;
-		String radioHome = home.getStatsURL();
+		String radioHome = home.getStatsURL().replace("stats.htm", "RadioPlayer.htm?id=" + g.getGameID());
+		radioHome = "[" + home.getTeamName() + " radio feed](" + radioHome + ")";
 		forwardsAway = awayTeamLines.getForwards();
 		defenseAway = awayTeamLines.getDefense();
 		goaliesAway = awayTeamLines.getGoalies();
 		sraway = away.getSubreddit();
 		goalieStatsAway = away.getTeamGoalies();
-		radioAway = radioAway.replace("stats.html", "RadioPlayer.htm");
 
 		forwardsHome = homeTeamLines.getForwards();
 		defenseHome = homeTeamLines.getDefense();
 		goaliesHome = homeTeamLines.getGoalies();
 		srhome = home.getSubreddit();
 		goalieStatsHome = home.getTeamGoalies();
-		radioHome = radioHome.replace("stats.html", "RadioPlayer.htm");
 
 		templateString = templateString.replace("{league:rankings:Rank,redditicon,Team,W,L,OT,P,PP%,PK%,FO%}",
 												getRanks(away, home));
@@ -325,10 +325,10 @@ public class CreateGDTFile {
 
 
 			if (System.getProperty("os.name").contains("Windows"))
-				System.out.print("Successfully printed GDT at " + folder.getAbsolutePath() + "\\" + away.getTeamName() +
+				System.out.println("Successfully printed GDT at " + folder.getAbsolutePath() + "\\" + away.getTeamName() +
 								 "-at-" + home.getTeamName() + "-" + g.getGameDate().replace("/", "-") + ".txt");
 			else
-				System.out.print("Successfully printed GDT at " + folder.getAbsolutePath() + "/" + away.getTeamName() +
+				System.out.println("Successfully printed GDT at " + folder.getAbsolutePath() + "/" + away.getTeamName() +
 								 "-at-" + home.getTeamName() + "-" + g.getGameDate().replace("/","-") + ".txt");
 
 		}

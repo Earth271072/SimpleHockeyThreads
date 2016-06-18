@@ -1,0 +1,96 @@
+------------------[ THREAD TITLES ]-------------------------
+Game Thread: Sharks at Blues - 05/23/2016 - 07:00 PM CT
+Game Thread: Sharks (46-30-6) at Blues (49-24-9) - 05/23/2016 - 07:00 PM CT
+Game Thread: #11 Sharks (46-30-6) at #3 Blues (49-24-9) - 05/23/2016 - 07:00 PM CT
+
+------------------[ GAME THREAD ]-------------------------
+| GAME DAY: Monday 05/23/2016 |
+|:--:|
+| Scottrade Center - St. Louis |
+| #11 Sharks (46-30-6) @ #3 Blues (49-24-9) |
+
+|||
+|:--:|:--:|
+| **Time** | 05:00 PM PT - 06:00 PM MT - 07:00 PM CT - 08:00 PM ET |
+| **TV** | NBCSN, CBC, TVAS |
+| **Streams** | /r/NHLStreams |  
+| **Listen** | [Blues radio feed](http://blues.nhl.com/club/RadioPlayer.htm?id=2015030325) - http://sharks.nhl.com/club/RadioPlayer.htm?id=2015030325 |
+| **Talk** | **[#Reddit-Hockey on FreeNode](http://webchat.freenode.net/?channels=reddit-hockey)** |
+| **Comment Stream** | [Reddit-Stream]() |
+| **NHL Links** | [Preview](http://www.nhl.com/gamecenter/en/preview?id=2015030325) - [Box Score](http://www.nhl.com/gamecenter/en/boxscore?id=2015030325) - [Recap](http://www.nhl.com/gamecenter/en/recap?id=2015030325) |
+
+# Team Stats
+
+| Rank | | Team | W | L | OT | P | PP% | PK% | FO% |
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| 2 | [](/r/dallasstars) | Dallas Stars | 50 | 23 | 9 | 109 | 0.2213 | 0.8225 | 0.5019 |
+| **3** | **[](/r/stlouisblues)** | **St. Louis Blues** | **49** | **24** | **9** | **107** | **0.2151** | **0.8514** | **0.5126** |
+| 4 | [](/r/penguins) | Pittsburgh Penguins | 48 | 26 | 8 | 104 | 0.1839 | 0.8443 | 0.5016 |
+| 10 | [](/r/newyorkislanders) | New York Islanders | 45 | 27 | 10 | 100 | 0.1834 | 0.8448 | 0.5008 |
+| **11** | **[](/r/sanjosesharks)** | **San Jose Sharks** | **46** | **30** | **6** | **98** | **0.2254** | **0.805** | **0.5069** |
+| 12 | [](/r/tampabaylightning) | Tampa Bay Lightning | 46 | 31 | 5 | 97 | 0.1577 | 0.8404 | 0.4948 |
+
+
+# Game Preview
+
+## Team Leaders
+| # | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/sanjosesharks) | 88 | D | Brent Burns | 82 | 27 | 48 | 75 | -5 | 53 | 7 | 1 | 4 | 353 | 7.6
+| [](/r/sanjosesharks) | 9 | C | Dainius Zubrus | 50 | 3 | 4 | 7 | 4 | 20 | 0 | 0 | 0 | 33 | 9.1
+| [](/r/sanjosesharks) | 19 | C | Joe Thornton | 82 | 19 | 63 | 82 | 25 | 54 | 8 | 0 | 6 | 121 | 15.7
+| [](/r/stlouisblues) | 91 | R | Vladimir Tarasenko | 80 | 40 | 34 | 74 | 7 | 37 | 12 | 0 | 7 | 292 | 13.7
+| [](/r/stlouisblues) | 20 | L | Alexander Steen | 67 | 17 | 35 | 52 | 3 | 48 | 2 | 1 | 2 | 172 | 9.9
+| [](/r/stlouisblues) | 26 | C | Paul Stastny | 64 | 10 | 39 | 49 | 3 | 26 | 2 | 0 | 2 | 103 | 9.7
+
+
+## Goalie Situation
+| # | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/sanjosesharks) | 34 | James Reimer | 40 | 37 | 0 | 2.31 | 17 | 14 | 7 | 3 | 1128 | 88 | 0.922 | 0 | 0 | 0 |
+| [](/r/sanjosesharks) | 31 | Martin Jones | 65 | 65 | 0 | 2.27 | 37 | 23 | 4 | 6 | 1734 | 143 | 0.918 | 0 | 0 | 0 |
+| [](/r/stlouisblues) | 1 | Brian Elliott | 42 | 38 | 0 | 2.07 | 23 | 8 | 6 | 4 | 1113 | 78 | 0.93 | 0 | 0 | 0 |
+| [](/r/stlouisblues) | 34 | Jake Allen | 47 | 44 | 0 | 2.35 | 26 | 15 | 3 | 6 | 1260 | 101 | 0.92 | 0 | 0 | 0 |
+| [](/r/stlouisblues) | 39 | Anders Nilsson | 29 | 24 | 0 | 3.12 | 10 | 13 | 2 | 0 | 789 | 78 | 0.901 | 0 | 0 | 0 |
+| [](/r/stlouisblues) | 50 | Jordan Binnington | 1 | 0 | 0 | 4.62 | 0 | 0 | 0 | 0 | 4 | 1 | 0.75 | 0 | 0 | 0 |
+
+## Projected Lineups
+
+| | Left | Center | Right | | Left | Center | Right |
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+|[](/r/sanjosesharks)| Tomas Hertl | Joe Thornton | Joe Pavelski |[](/r/stlouisblues)| Jaden Schwartz | Jori Lehtera | Vladimir Tarasenko |
+|[](/r/sanjosesharks)| Patrick Marleau | Logan Couture | Joonas Donskoi |[](/r/stlouisblues)| Robby Fabbri | Paul Stastny | Troy Brouwer |
+|[](/r/sanjosesharks)| Melker Karlsson | Chris Tierney | Joel Ward |[](/r/stlouisblues)| Patrik Berglund | Alex Steen | David Backes |
+|[](/r/sanjosesharks)| Dainius Zubrus | Nick Spaling | Tommy Wingels |[](/r/stlouisblues)| Dmitrij Jaskin | Kyle Brodziak | Magnus Paajarvi |
+
+| | Left D | Right D | | Left D | Right D |
+:--: | :--: | :--: | :--: | :--: | :--: 
+|[](/r/sanjosesharks)| Paul Martin | Brent Burns |[](/r/stlouisblues)| Jay Bouwmeester | Alex Pietrangelo |
+|[](/r/sanjosesharks)| Marc-Edouard Vlasic | Justin Braun |[](/r/stlouisblues)| Joel Edmundson | Kevin Shattenkirk |
+|[](/r/sanjosesharks)| Brenden Dillon | Roman Polak |[](/r/stlouisblues)| Carl Gunnarsson | Colton Parayko |
+
+|| Goaltenders || Goaltenders |
+:--: | :--: | :--: | :--:
+|[](/r/sanjosesharks)| Martin Jones |[](/r/stlouisblues)| Brian Elliott |
+|[](/r/sanjosesharks)| James Reimer |[](/r/stlouisblues)| Jake Allen |
+
+
+# Live Game Stats
+***
+***
+
+# Thread Notes
+
+* Discuss whatever you wish, you can trash talk, but keep it civil!
+* Turning comment sort to 'new' will help you see the newest posts.
+* Try [Chrome Refresh](https://chrome.google.com/webstore/detail/chrome-refresh/aifhnlnghddfdaccgbbpbhjfkmncekmn) or [Firefox ReloadEvery](https://addons.mozilla.org/en-US/firefox/addon/reloadevery/) to auto-refresh this tab or the Reddit Stream link posted above.
+* Feel free to message me with any errors or suggestions for future threads.
+
+**Lets have a good discussion and a good game. Good luck to both teams!**
+
+###GET NOTIFIED WHEN THE GDT FOR YOUR FAVORITE TEAMS GETS POSTED!
+[Click here to get GDT notifications for San Jose](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=San Jose)  
+or  
+[Click here to get GDT notifications for St. Louis](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=St. Louis)  
+or  
+[Click here for more information](/message/compose/?to=HockeyGT_Bot&subject=help&message=Just%20click%20send)  

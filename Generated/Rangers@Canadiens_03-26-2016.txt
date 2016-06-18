@@ -1,0 +1,96 @@
+------------------[ THREAD TITLES ]-------------------------
+Game Thread: Rangers at Canadiens - 03/26/2016 - 07:00 PM PT
+Game Thread: Rangers (42-24-8) at Canadiens (34-35-6) - 03/26/2016 - 07:00 PM PT
+Game Thread: #5 Rangers (42-24-8) at #22 Canadiens (34-35-6) - 03/26/2016 - 07:00 PM PT
+
+------------------[ GAME THREAD ]-------------------------
+| GAME DAY: Saturday 03/26/2016 |
+|:--:|
+| Centre Bell - Montreal |
+| #5 Rangers (42-24-8) @ #22 Canadiens (34-35-6) |
+
+|||
+|:--:|:--:|
+| **Time** | 04:00 PM PT - 05:00 PM MT - 06:00 PM CT - 07:00 PM ET |
+| **TV** | {game:broadcast} |
+| **Streams** | /r/NHLStreams |  
+| **Listen** | http://canadiens.nhl.com/club/stats.htm - http://rangers.nhl.com/club/stats.htm |
+| **Talk** | **[#Reddit-Hockey on FreeNode](http://webchat.freenode.net/?channels=reddit-hockey)** |
+| **Comment Stream** | [Reddit-Stream]() |
+| **NHL Links** | [Preview](http://www.nhl.com/gamecenter/en/preview?id=2015021120) - [Box Score](http://www.nhl.com/gamecenter/en/boxscore?id=2015021120) - [Recap](http://www.nhl.com/gamecenter/en/recap?id=2015021120) |
+
+# Team Stats
+
+| Rank | | Team | W | L | OT | P | PP% | PK% | FO% |
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| 4 | [](/r/losangeleskings) | Los Angeles Kings | 44 | 25 | 5 | 93 | 0.2064 | 0.8153 | 0.5044 |
+| 5 | [](/r/rangers) | New York Rangers | 42 | 24 | 8 | 92 | 0.1881 | 0.771 | 0.4941 |
+| 6 | [](/r/hawks) | Chicago Blackhawks | 42 | 25 | 7 | 91 | 0.2202 | 0.7877 | 0.4944 |
+| 21 | [](/r/ottawasenators) | Ottawa Senators | 34 | 33 | 8 | 76 | 0.1592 | 0.7553 | 0.5037 |
+| 22 | [](/r/habs) | Montreal Canadiens | 34 | 35 | 6 | 74 | 0.1659 | 0.8362 | 0.5075 |
+| 23 | [](/r/coyotes) | Arizona Coyotes | 33 | 34 | 7 | 73 | 0.1818 | 0.7835 | 0.5441 |
+
+
+# Game Preview
+
+## Team Leaders
+# | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%
+| [](/r/rangers) | 36 | R | Mats Zuccarello | 74 | 24 | 32 | 56 | 3 | 32 | 7 | 0 | 3 | 154 | 15.6
+| [](/r/rangers) | 16 | C | Derick Brassard | 72 | 26 | 28 | 54 | 11 | 24 | 8 | 0 | 5 | 163 | 16.0
+| [](/r/rangers) | 21 | C | Derek Stepan | 64 | 17 | 25 | 42 | 4 | 18 | 3 | 2 | 5 | 171 | 9.9
+| [](/r/habs) | 67 | L | Max Pacioretty | 75 | 25 | 30 | 55 | -14 | 34 | 8 | 1 | 4 | 278 | 9.0
+| [](/r/habs) | 76 | D | P.K. Subban | 68 | 6 | 45 | 51 | 4 | 75 | 2 | 0 | 0 | 176 | 3.4
+| [](/r/habs) | 27 | C | Alex Galchenyuk | 75 | 27 | 23 | 50 | -12 | 18 | 7 | 0 | 4 | 188 | 14.4
+
+
+## Goalie Situation
+# | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM
+| [](/r/rangers) | 30 | Henrik Lundqvist | 59 | 58 | 3469 | 2.4 | 33 | 19 | 6 | 4 | 1789 | 139 | 0.922 | 0 | 3 | 2 |
+| [](/r/rangers) | 32 | Antti Raanta | 21 | 16 | 974 | 2.34 | 9 | 5 | 2 | 1 | 450 | 38 | 0.916 | 0 | 0 | 0 |
+| [](/r/rangers) | -1 | Magnus Hellberg | 1 | 0 | 20 | 6.0 | 0 | 0 | 0 | 0 | 6 | 2 | 0.667 | 0 | 0 | 0 |
+
+| [](/r/habs) | 39 | Mike Condon | 49 | 45 | 2786 | 2.65 | 18 | 22 | 6 | 0 | 1290 | 123 | 0.905 | 0 | 0 | 0 |
+| [](/r/habs) | 40 | Ben Scrivens | 14 | 14 | 802 | 3.14 | 5 | 8 | 0 | 0 | 443 | 42 | 0.905 | 0 | 0 | 0 |
+| [](/r/habs) | 31 | Carey Price | 12 | 12 | 698 | 2.06 | 10 | 2 | 0 | 2 | 365 | 24 | 0.934 | 0 | 0 | 0 |
+
+
+## Projected Lineups
+
+| | Left | Center | Right | | Left | Center | Right |
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+|[](/r/rangers)| Chris Kreider | Derick Brassard | Rick Nash |[](/r/habs)| Max Pacioretty | Alex Galchenyuk | Paul Byron |
+|[](/r/rangers)| J.T. Miller | Derek Stepan | Mats Zuccarello |[](/r/habs)| Lars Eller | Tomas Plekanec | Sven Andrighetto |
+|[](/r/rangers)| Kevin Hayes | Eric Staal | Jesper Fast |[](/r/habs)| Stefan Matteau | David Desharnais | Michael McCarron |
+|[](/r/rangers)| Tanner Glass | Dominic Moore | Viktor Stalberg |[](/r/habs)| Torrey Mitchell | Phillip Danault | Mike Brown |
+
+| | Left D | Right D | | Left D | Right D |
+:--: | :--: | :--: | :--: | :--: | :--: 
+|[](/r/rangers)| Ryan McDonagh | Kevin Klein |[](/r/habs)| Andrei Markov | Alexei Emelin |
+|[](/r/rangers)| Marc Staal | Dan Boyle |[](/r/habs)| Nathan Beaulieu | Greg Pateryn |
+|[](/r/rangers)| Keith Yandle | Dan Girardi |[](/r/habs)| Joel Hanley | Darren Dietz |
+
+|| Goaltenders || Goaltenders |
+:--: | :--: | :--: | :--:
+|[](/r/rangers)| Henrik Lundqvist |[](/r/habs)| Mike Condon |
+|[](/r/rangers)| Antti Raanta |[](/r/habs)| Ben Scrivens |
+
+
+# Live Game Stats
+***
+***
+
+# Thread Notes
+
+* Discuss whatever you wish, you can trash talk, but keep it civil!
+* Turning comment sort to 'new' will help you see the newest posts.
+* Try [Chrome Refresh](https://chrome.google.com/webstore/detail/chrome-refresh/aifhnlnghddfdaccgbbpbhjfkmncekmn) or [Firefox ReloadEvery](https://addons.mozilla.org/en-US/firefox/addon/reloadevery/) to auto-refresh this tab or the Reddit Stream link posted above.
+* Feel free to message me with any errors or suggestions for future threads.
+
+**Lets have a good discussion and a good game. Good luck to both teams!**
+
+###GET NOTIFIED WHEN THE GDT FOR YOUR FAVORITE TEAMS GETS POSTED!
+[Click here to get GDT notifications for New York](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=New York)  
+or  
+[Click here to get GDT notifications for Montreal](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Montreal)  
+or  
+[Click here for more information](/message/compose/?to=HockeyGT_Bot&subject=help&message=Just%20click%20send)  

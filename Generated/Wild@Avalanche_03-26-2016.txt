@@ -1,0 +1,94 @@
+------------------[ THREAD TITLES ]-------------------------
+Game Thread: Wild at Avalanche - 03/26/2016 - 01:00 PM MT
+Game Thread: Wild (37-28-11) at Avalanche (38-33-4) - 03/26/2016 - 01:00 PM MT
+Game Thread: #17 Wild (37-28-11) at #18 Avalanche (38-33-4) - 03/26/2016 - 01:00 PM MT
+
+------------------[ GAME THREAD ]-------------------------
+| GAME DAY: Saturday 03/26/2016 |
+|:--:|
+| Pepsi Center - Colorado |
+| #17 Wild (37-28-11) @ #18 Avalanche (38-33-4) |
+
+|||
+|:--:|:--:|
+| **Time** | 12:00 PM PT - 01:00 PM MT - 02:00 PM CT - 03:00 PM ET |
+| **TV** | {game:broadcast} |
+| **Streams** | /r/NHLStreams |  
+| **Listen** | http://avalanche.nhl.com/club/stats.htm - http://wild.nhl.com/club/stats.htm |
+| **Talk** | **[#Reddit-Hockey on FreeNode](http://webchat.freenode.net/?channels=reddit-hockey)** |
+| **Comment Stream** | [Reddit-Stream]() |
+| **NHL Links** | [Preview](http://www.nhl.com/gamecenter/en/preview?id=2015021117) - [Box Score](http://www.nhl.com/gamecenter/en/boxscore?id=2015021117) - [Recap](http://www.nhl.com/gamecenter/en/recap?id=2015021117) |
+
+# Team Stats
+
+| Rank | | Team | W | L | OT | P | PP% | PK% | FO% |
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| 16 | [](/r/detroitredwings) | Detroit Red Wings | 37 | 27 | 11 | 85 | 0.1799 | 0.808 | 0.5022 |
+| 17 | [](/r/wildhockey) | Minnesota Wild | 37 | 28 | 11 | 85 | 0.1975 | 0.7842 | 0.5218 |
+| 18 | [](/r/coloradoavalanche) | Colorado Avalanche | 38 | 33 | 4 | 80 | 0.1893 | 0.822 | 0.4987 |
+| 19 | [](/r/devils) | New Jersey Devils | 36 | 31 | 8 | 80 | 0.2053 | 0.8227 | 0.4632 |
+
+
+# Game Preview
+
+## Team Leaders
+# | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%
+| [](/r/wildhockey) | 9 | C | Mikko Koivu | 76 | 17 | 37 | 54 | 6 | 36 | 10 | 1 | 2 | 131 | 13.0
+| [](/r/wildhockey) | 20 | D | Ryan Suter | 76 | 8 | 41 | 49 | 10 | 26 | 3 | 1 | 2 | 176 | 4.5
+| [](/r/wildhockey) | 11 | L | Zach Parise | 65 | 24 | 25 | 49 | -6 | 34 | 7 | 0 | 7 | 220 | 10.9
+| [](/r/coloradoavalanche) | 9 | C | Matt Duchene | 71 | 29 | 27 | 56 | -6 | 24 | 8 | 0 | 6 | 186 | 15.6
+| [](/r/coloradoavalanche) | 29 | C | Nathan MacKinnon | 72 | 21 | 31 | 52 | -4 | 20 | 7 | 0 | 6 | 245 | 8.6
+| [](/r/coloradoavalanche) | 92 | L | Gabriel Landeskog | 68 | 18 | 30 | 48 | -3 | 60 | 4 | 1 | 2 | 157 | 11.5
+
+
+## Goalie Situation
+# | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM
+| [](/r/wildhockey) | 40 | Devan Dubnyk | 61 | 60 | 3534 | 2.31 | 31 | 22 | 6 | 5 | 1700 | 136 | 0.92 | 0 | 0 | 8 |
+| [](/r/wildhockey) | 35 | Darcy Kuemper | 20 | 16 | 1035 | 2.38 | 6 | 6 | 5 | 2 | 488 | 41 | 0.916 | 0 | 0 | 2 |
+
+| [](/r/coloradoavalanche) | 1 | Semyon Varlamov | 51 | 51 | 2851 | 2.67 | 26 | 20 | 3 | 2 | 1533 | 127 | 0.917 | 0 | 0 | 6 |
+| [](/r/coloradoavalanche) | 31 | Calvin Pickard | 18 | 12 | 888 | 2.57 | 7 | 5 | 1 | 1 | 485 | 38 | 0.922 | 0 | 1 | 0 |
+| [](/r/coloradoavalanche) | 20 | Reto Berra | 14 | 12 | 721 | 2.41 | 5 | 8 | 0 | 2 | 374 | 29 | 0.922 | 0 | 1 | 2 |
+| [](/r/coloradoavalanche) | 35 | Roman Will | 1 | 0 | 18 | 3.33 | 0 | 0 | 0 | 0 | 3 | 1 | 0.667 | 0 | 0 | 0 |
+
+
+## Projected Lineups
+
+| | Left | Center | Right | | Left | Center | Right |
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+|[](/r/wildhockey)| Zach Parise | Mikko Koivu | Charlie Coyle |[](/r/coloradoavalanche)| Shawn Matthias | Carl Soderberg | Gabriel Landeskog |
+|[](/r/wildhockey)| Thomas Vanek | Mikael Granlund | David Jones |[](/r/coloradoavalanche)| Mikkel Boedker | Mikhail Grigorenko | Blake Comeau |
+|[](/r/wildhockey)| Nino Niederreiter | Erik Haula | Jason Pominville |[](/r/coloradoavalanche)| Andreas Martinsen | John Mitchell | Jarome Iginla |
+|[](/r/wildhockey)| Justin Fontaine | Jarret Stoll | Jordan Schroeder |[](/r/coloradoavalanche)| Cody McLeod | Mikko Rantanen | Jack Skille |
+
+| | Left D | Right D | | Left D | Right D |
+:--: | :--: | :--: | :--: | :--: | :--: 
+|[](/r/wildhockey)| Ryan Suter | Jared Spurgeon |[](/r/coloradoavalanche)| Francois Beauchemin | Erik Johnson |
+|[](/r/wildhockey)| Marco Scandella | Jonas Brodin |[](/r/coloradoavalanche)| Nick Holden | Tyson Barrie |
+|[](/r/wildhockey)| Mike Reilly | Mathew Dumba |[](/r/coloradoavalanche)| Chris Bigras | Zach Redmond |
+
+|| Goaltenders || Goaltenders |
+:--: | :--: | :--: | :--:
+|[](/r/wildhockey)| Devan Dubnyk |[](/r/coloradoavalanche)| Semyon Varlamov |
+|[](/r/wildhockey)| Darcy Kuemper |[](/r/coloradoavalanche)| Calvin Pickard |
+
+
+# Live Game Stats
+***
+***
+
+# Thread Notes
+
+* Discuss whatever you wish, you can trash talk, but keep it civil!
+* Turning comment sort to 'new' will help you see the newest posts.
+* Try [Chrome Refresh](https://chrome.google.com/webstore/detail/chrome-refresh/aifhnlnghddfdaccgbbpbhjfkmncekmn) or [Firefox ReloadEvery](https://addons.mozilla.org/en-US/firefox/addon/reloadevery/) to auto-refresh this tab or the Reddit Stream link posted above.
+* Feel free to message me with any errors or suggestions for future threads.
+
+**Lets have a good discussion and a good game. Good luck to both teams!**
+
+###GET NOTIFIED WHEN THE GDT FOR YOUR FAVORITE TEAMS GETS POSTED!
+[Click here to get GDT notifications for Minnesota](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Minnesota)  
+or  
+[Click here to get GDT notifications for Colorado](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Colorado)  
+or  
+[Click here for more information](/message/compose/?to=HockeyGT_Bot&subject=help&message=Just%20click%20send)  

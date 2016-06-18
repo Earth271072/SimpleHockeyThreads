@@ -1,0 +1,95 @@
+------------------[ THREAD TITLES ]-------------------------
+Game Thread: Predators at Penguins - 03/31/2016 - 07:00 PM PT
+Game Thread: Predators (39-25-13) at Penguins (43-25-8) - 03/31/2016 - 07:00 PM PT
+Game Thread: #13 Predators (39-25-13) at #8 Penguins (43-25-8) - 03/31/2016 - 07:00 PM PT
+
+------------------[ GAME THREAD ]-------------------------
+| GAME DAY: Thursday 03/31/2016 |
+|:--:|
+| CONSOL Energy Center - Pittsburgh |
+| #13 Predators (39-25-13) @ #8 Penguins (43-25-8) |
+
+|||
+|:--:|:--:|
+| **Time** | 04:00 PM PT - 05:00 PM MT - 06:00 PM CT - 07:00 PM ET |
+| **TV** |  |
+| **Streams** | /r/NHLStreams |  
+| **Listen** | http://penguins.nhl.com/club/stats.htm - http://predators.nhl.com/club/stats.htm |
+| **Talk** | **[#Reddit-Hockey on FreeNode](http://webchat.freenode.net/?channels=reddit-hockey)** |
+| **Comment Stream** | [Reddit-Stream]() |
+| **NHL Links** | [Preview](http://www.nhl.com/gamecenter/en/preview?id=2015021154) - [Box Score](http://www.nhl.com/gamecenter/en/boxscore?id=2015021154) - [Recap](http://www.nhl.com/gamecenter/en/recap?id=2015021154) |
+
+# Team Stats
+
+| Rank | | Team | W | L | OT | P | PP% | PK% | FO% |
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| 7 | [](/r/hawks) | Chicago Blackhawks | 44 | 26 | 7 | 95 | 0.2145 | 0.7945 | 0.4938 |
+| **8** | **[](/r/penguins)** | **Pittsburgh Penguins** | **43** | **25** | **8** | **94** | **0.1755** | **0.8297** | **0.5058** |
+| 9 | [](/r/tampabaylightning) | Tampa Bay Lightning | 44 | 27 | 5 | 93 | 0.1653 | 0.8425 | 0.4944 |
+| 12 | [](/r/newyorkislanders) | New York Islanders | 41 | 25 | 9 | 91 | 0.1857 | 0.8578 | 0.4957 |
+| **13** | **[](/r/predators)** | **Nashville Predators** | **39** | **25** | **13** | **91** | **0.1983** | **0.8122** | **0.4909** |
+| 14 | [](/r/flyers) | Philadelphia Flyers | 38 | 25 | 13 | 89 | 0.1814 | 0.8064 | 0.5074 |
+
+
+# Game Preview
+
+## Team Leaders
+| # | Pos | Player | GP | G | A | P | +/- | PIM | PP | SH | GW | S | S%
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/predators) | 9 | L | Filip Forsberg | 77 | 31 | 27 | 58 | 0 | 41 | 7 | 1 | 3 | 233 | 13.3
+| [](/r/predators) | 59 | D | Roman Josi | 77 | 13 | 44 | 57 | -3 | 41 | 6 | 1 | 2 | 187 | 7.0
+| [](/r/predators) | 92 | C | Ryan Johansen | 75 | 13 | 40 | 53 | 4 | 55 | 4 | 0 | 2 | 176 | 7.4
+| [](/r/penguins) | 87 | C | Sidney Crosby | 75 | 32 | 47 | 79 | 17 | 38 | 9 | 0 | 8 | 229 | 14.0
+| [](/r/penguins) | 58 | D | Kris Letang | 66 | 15 | 44 | 59 | 1 | 58 | 4 | 0 | 1 | 204 | 7.4
+| [](/r/penguins) | 23 | L | Scott Wilson | 24 | 5 | 1 | 6 | 0 | 12 | 0 | 0 | 1 | 39 | 12.8
+
+
+## Goalie Situation
+| # | Goalie | GPI | GS | Min | GAA | W | L | OT | SO | SA | GA | Sv% | G | A | PIM
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+| [](/r/predators) | 35 | Pekka Rinne | 63 | 63 | 0 | 2.44 | 32 | 20 | 10 | 4 | 1669 | 152 | 0.909 | 0 | 0 | 0 |
+| [](/r/predators) | 30 | Carter Hutton | 14 | 13 | 0 | 2.3 | 7 | 4 | 3 | 2 | 388 | 32 | 0.918 | 0 | 0 | 0 |
+| [](/r/penguins) | 29 | Marc-Andre Fleury | 57 | 57 | 0 | 2.29 | 34 | 17 | 6 | 5 | 1641 | 130 | 0.921 | 0 | 0 | 0 |
+| [](/r/penguins) | 37 | Jeff Zatkoff | 13 | 11 | 0 | 2.78 | 4 | 6 | 1 | 0 | 384 | 32 | 0.917 | 0 | 0 | 0 |
+| [](/r/penguins) | 30 | Matthew Murray | 8 | 8 | 0 | 2.09 | 5 | 2 | 1 | 0 | 230 | 17 | 0.926 | 0 | 0 | 0 |
+
+## Projected Lineups
+
+| | Left | Center | Right | | Left | Center | Right |
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+|[](/r/predators)| Calle Jarnkrok | Ryan Johansen | James Neal |[](/r/penguins)| Chris Kunitz | Sidney Crosby | Patric Hornqvist |
+|[](/r/predators)| Filip Forsberg | Mike Ribeiro | Craig Smith |[](/r/penguins)| Carl Hagelin | Nick Bonino | Phil Kessel |
+|[](/r/predators)| Miikka Salomaki | Mike Fisher | Viktor Arvidsson |[](/r/penguins)| Tom Kuhnhackl | Matt Cullen | Beau Bennett |
+|[](/r/predators)| Paul Gaustad | Colton Sissons | Austin Watson |[](/r/penguins)| Conor Sheary | Oskar Sundqvist | Eric Fehr |
+
+| | Left D | Right D | | Left D | Right D |
+:--: | :--: | :--: | :--: | :--: | :--: 
+|[](/r/predators)| Roman Josi | Shea Weber |[](/r/penguins)| Trevor Daley | Kris Letang |
+|[](/r/predators)| Mattias Ekholm | Petter Granberg |[](/r/penguins)| Ian Cole | Justin Schultz |
+|[](/r/predators)| Barret Jackman | Stefan Elliott |[](/r/penguins)| Derrick Pouliot | Ben Lovejoy |
+
+|| Goaltenders || Goaltenders |
+:--: | :--: | :--: | :--:
+|[](/r/predators)| Pekka Rinne |[](/r/penguins)| Marc-Andre Fleury |
+|[](/r/predators)| Carter Hutton |[](/r/penguins)| Matt Murray |
+
+
+# Live Game Stats
+***
+***
+
+# Thread Notes
+
+* Discuss whatever you wish, you can trash talk, but keep it civil!
+* Turning comment sort to 'new' will help you see the newest posts.
+* Try [Chrome Refresh](https://chrome.google.com/webstore/detail/chrome-refresh/aifhnlnghddfdaccgbbpbhjfkmncekmn) or [Firefox ReloadEvery](https://addons.mozilla.org/en-US/firefox/addon/reloadevery/) to auto-refresh this tab or the Reddit Stream link posted above.
+* Feel free to message me with any errors or suggestions for future threads.
+
+**Lets have a good discussion and a good game. Good luck to both teams!**
+
+###GET NOTIFIED WHEN THE GDT FOR YOUR FAVORITE TEAMS GETS POSTED!
+[Click here to get GDT notifications for Nashville](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Nashville)  
+or  
+[Click here to get GDT notifications for Pittsburgh](/message/compose/?to=HockeyGT_Bot&subject=subscribe&message=Pittsburgh)  
+or  
+[Click here for more information](/message/compose/?to=HockeyGT_Bot&subject=help&message=Just%20click%20send)  
